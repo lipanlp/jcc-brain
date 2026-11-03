@@ -1,0 +1,43 @@
+{"_file": "0000.jpg", "stage": "2-6", "phase": "planning", "next_round": "pve", "round_type": "pvp"}
+{"_file": "0003.jpg", "stage": "2-6", "phase": "planning", "next_round": "pve", "round_type": "pvp"}
+{"_file": "0006.jpg", "stage": "2-6", "phase": "planning", "next_round": "pve", "round_type": "pvp"}
+{"_file": "0009.jpg", "stage": "2-7", "phase": "planning", "next_round": "unknown", "round_type": "pve"}
+{"_file": "0012.jpg", "stage": "2-7", "phase": "planning", "next_round": "unknown", "round_type": "pve"}
+{"_file": "0015.jpg", "stage": "2-7", "phase": "combat", "next_round": "unknown", "round_type": "pve"}
+{"_file": "0018.jpg", "stage": "2-7", "phase": "combat", "next_round": "unknown", "round_type": "pve"}
+{"_file": "0021.jpg", "stage": "3-1", "phase": "planning", "next_round": "augment", "round_type": "pvp"}
+{"_file": "0024.jpg", "stage": "3-1", "phase": "planning", "next_round": "augment", "round_type": "pvp"}
+{"_file": "0027.jpg", "stage": "3-1", "phase": "planning", "next_round": "augment", "round_type": "pvp"}
+{"_file": "0030.jpg", "stage": "3-1", "phase": "combat", "next_round": "augment", "round_type": "pvp"}
+{"_file": "0033.jpg", "stage": "3-1", "phase": "combat", "next_round": "augment", "round_type": "pvp"}
+{"_file": "0036.jpg", "stage": "3-1", "phase": "combat", "next_round": "augment", "round_type": "pvp"}
+{"_file": "0039.jpg", "stage": "3-1", "phase": "combat", "next_round": "augment", "round_type": "pvp"}
+{"_file": "0042.jpg", "stage": "3-1", "phase": "combat", "next_round": "augment", "round_type": "pvp"}
+{"_file": "0045.jpg", "stage": "3-2", "phase": "augment", "next_round": "pvp", "round_type": "augment"}
+{"_file": "0048.jpg", "stage": "3-2", "phase": "augment", "next_round": "pvp", "round_type": "augment"}
+{"_file": "0051.jpg", "stage": "3-2", "phase": "planning", "next_round": "pvp", "round_type": "augment"}
+{"_file": "0054.jpg", "stage": "3-2", "phase": "planning", "next_round": "pvp", "round_type": "augment"}
+{"_file": "0057.jpg", "stage": "3-2", "phase": "planning", "next_round": "pvp", "round_type": "augment"}
+{"_file": "0060.jpg", "stage": "3-2", "phase": "combat", "next_round": "pvp", "round_type": "pvp"}
+{"_file": "0063.jpg", "stage": "3-2", "phase": "combat", "next_round": "pvp", "round_type": "pvp"}
+{"_file": "0066.jpg", "stage": "3-2", "phase": "combat", "next_round": "pvp", "round_type": "pvp"}
+{"_file": "0069.jpg", "stage": "3-2", "phase": "combat", "next_round": "pvp", "round_type": "pvp"}
+{"_file": "0072.jpg", "stage": "3-2", "phase": "combat", "next_round": "pvp", "round_type": "pvp"}
+{"_file": "0075.jpg", "stage": "3-3", "phase": "planning", "next_round": "carousel", "round_type": "pvp"}
+{"_file": "result_2nd.jpg", "stage": null, "phase": "ended", "next_round": "unknown", "round_type": "unknown"}
+{"_file": "carousel/0001.png", "phase": "carousel"}
+{"_file": "carousel/0002.png", "phase": "carousel"}
+{"_file": "carousel/0003.png", "phase": "carousel"}
+{"_file": "carousel/0004.png", "phase": "carousel"}
+{"_file": "carousel/0005.png", "phase": "carousel"}
+{"_file": "spectate/0001.png", "phase": "spectate"}
+{"_file": "spectate/0002.png", "phase": "spectate"}
+{"_file": "spectate/0003.png", "phase": "spectate"}
+{"_file": "spectate/0004.png", "phase": "spectate"}
+{"_file": "spectate/0005.png", "phase": "carousel"}
+{"_file": "spectate/0006.png", "phase": "spectate"}
+{"_file": "dialog/0001.png", "phase": "dialog"}
+{"_file": "dialog/0002.png", "phase": "dialog"}
+{"_file": "dialog/0003.png", "phase": "dialog"}
+{"_file": "dialog/0004.png", "phase": "dialog"}
+{"_file": "dialog/0005.png", "phase": "dialog"}

@@ -1,0 +1,146 @@
+[
+  {
+    "key": "tank-0033",
+    "source": "0033.jpg",
+    "origin": [
+      532,
+      91
+    ],
+    "point": [
+      599,
+      111
+    ],
+    "enemy": true
+  },
+  {
+    "key": "low-0033",
+    "source": "0033.jpg",
+    "origin": [
+      868,
+      296
+    ],
+    "point": [
+      935,
+      315
+    ],
+    "enemy": true
+  },
+  {
+    "key": "flash-0036",
+    "source": "0036.jpg",
+    "origin": [
+      1090,
+      111
+    ],
+    "point": [
+      1157,
+      130
+    ],
+    "enemy": true
+  },
+  {
+    "key": "tank-0036",
+    "source": "0036.jpg",
+    "origin": [
+      611,
+      181
+    ],
+    "point": [
+      678,
+      201
+    ],
+    "enemy": true
+  },
+  {
+    "key": "low-0036",
+    "source": "0036.jpg",
+    "origin": [
+      1069,
+      296
+    ],
+    "point": [
+      1136,
+      315
+    ],
+    "enemy": true
+  },
+  {
+    "key": "plant-0063",
+    "source": "0063.jpg",
+    "origin": [
+      830,
+      139
+    ],
+    "point": [
+      897,
+      158
+    ],
+    "enemy": true
+  },
+  {
+    "key": "plant-bottom-0063",
+    "source": "0063.jpg",
+    "origin": [
+      832,
+      217
+    ],
+    "point": [
+      902,
+      236
+    ],
+    "enemy": true
+  },
+  {
+    "key": "front-0063",
+    "source": "0063.jpg",
+    "origin": [
+      782,
+      309
+    ],
+    "point": [
+      849,
+      328
+    ],
+    "enemy": true
+  },
+  {
+    "key": "augment-icon",
+    "source": "0060.jpg",
+    "origin": [
+      520,
+      315
+    ],
+    "point": null,
+    "enemy": false
+  },
+  {
+    "key": "coarse-nameplate",
+    "source": "0036.jpg",
+    "origin": [
+      1240,
+      107
+    ],
+    "point": null,
+    "enemy": false
+  },
+  {
+    "key": "friendly-green",
+    "source": "0033.jpg",
+    "origin": [
+      1080,
+      294
+    ],
+    "point": null,
+    "enemy": false
+  },
+  {
+    "key": "orange-damage",
+    "source": "0063.jpg",
+    "origin": [
+      970,
+      335
+    ],
+    "point": null,
+    "enemy": false
+  }
+]

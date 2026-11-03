@@ -1,0 +1,1927 @@
+{
+  "entries": [
+    {
+      "id": "30186",
+      "name": "1个霸符，2个霸符",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/onebufftwobuff3.png",
+      "index": 0
+    },
+    {
+      "id": "20626",
+      "name": "8级嘀干的传说",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/epicrolldown2.png",
+      "index": 1
+    },
+    {
+      "id": "20675",
+      "name": "一波带走俩",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/speedydoublekill2.png",
+      "index": 2
+    },
+    {
+      "id": "1479",
+      "name": "一，二，三",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/onetwothree1.png",
+      "index": 3
+    },
+    {
+      "id": "1650",
+      "name": "一，二，五！",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/onetwofive1.png",
+      "index": 4
+    },
+    {
+      "id": "20628",
+      "name": "三幻神",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/legionofthrees2.png",
+      "index": 5
+    },
+    {
+      "id": "20612",
+      "name": "三相庇护",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/infinityprotection2.png",
+      "index": 6
+    },
+    {
+      "id": "30028",
+      "name": "上进心",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/upwardmobility3.png",
+      "index": 7
+    },
+    {
+      "id": "20216",
+      "name": "不侦察，不变阵",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/noscoutnopivot2.png",
+      "index": 8
+    },
+    {
+      "id": "1712",
+      "name": "不拘一格",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/youngandwildandfree1.png",
+      "index": 9
+    },
+    {
+      "id": "20141",
+      "name": "专属定制",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/exclusivecustomization2.png",
+      "index": 10
+    },
+    {
+      "id": "20762",
+      "name": "世纪和解",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/rivalstofriends2.png",
+      "index": 11
+    },
+    {
+      "id": "2640",
+      "name": "了解你的敌人",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/knowyourenemy2.png",
+      "index": 12
+    },
+    {
+      "id": "20745",
+      "name": "亡眼射手",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/deadeye2.png",
+      "index": 13
+    },
+    {
+      "id": "3627",
+      "name": "交给运气",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/rollthedice3.png",
+      "index": 14
+    },
+    {
+      "id": "10495",
+      "name": "人生切片",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/sliceoflife1.png",
+      "index": 15
+    },
+    {
+      "id": "10766",
+      "name": "仙灵报恩",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/wisprebate1.png",
+      "index": 16
+    },
+    {
+      "id": "20766",
+      "name": "仙灵报恩+",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/wisprebate1.png",
+      "index": 17
+    },
+    {
+      "id": "1093",
+      "name": "休眠锻炉",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/longtimecrafting1.png",
+      "index": 18
+    },
+    {
+      "id": "3093",
+      "name": "便携锻炉",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/portableforge2.png",
+      "index": 19
+    },
+    {
+      "id": "20021",
+      "name": "值得等待",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/worththewait2.png",
+      "index": 20
+    },
+    {
+      "id": "30021",
+      "name": "值得等待 II",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/worththewait3.png",
+      "index": 21
+    },
+    {
+      "id": "10236",
+      "name": "假人化",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/dummify1.png",
+      "index": 22
+    },
+    {
+      "id": "3132",
+      "name": "光明圣物",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/radiantrelics3.png",
+      "index": 23
+    },
+    {
+      "id": "20764",
+      "name": "兽性本能",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/primalaugment2.png",
+      "index": 24
+    },
+    {
+      "id": "30764",
+      "name": "兽性本能",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/primalaugment2.png",
+      "index": 25
+    },
+    {
+      "id": "50764",
+      "name": "兽性本能+",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/primalaugment2.png",
+      "index": 26
+    },
+    {
+      "id": "30782",
+      "name": "创世神",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/masterofallorigins3.png",
+      "index": 27
+    },
+    {
+      "id": "20616",
+      "name": "利落保镖",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/bodyguardstraining2.png",
+      "index": 28
+    },
+    {
+      "id": "1625",
+      "name": "别再错过",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/missedconnections1.png",
+      "index": 29
+    },
+    {
+      "id": "10784",
+      "name": "别再错过",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/missedconnections1.png",
+      "index": 30
+    },
+    {
+      "id": "30706",
+      "name": "前线地基",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/frontlinefoundation2.png",
+      "index": 31
+    },
+    {
+      "id": "20630",
+      "name": "剑之工匠",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/swordsmith2.png",
+      "index": 32
+    },
+    {
+      "id": "30179",
+      "name": "加冕礼",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/coronation3.png",
+      "index": 33
+    },
+    {
+      "id": "3008",
+      "name": "升级咯！",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/levelup3.png",
+      "index": 34
+    },
+    {
+      "id": "20593",
+      "name": "单身板甲",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/soloplate2.png",
+      "index": 35
+    },
+    {
+      "id": "10586",
+      "name": "博弈开启",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/kickstart1.png",
+      "index": 36
+    },
+    {
+      "id": "30668",
+      "name": "厨神阿福",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/ultrarapidfire2.png",
+      "index": 37
+    },
+    {
+      "id": "20619",
+      "name": "双城赢家",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/arcaneviktory2.png",
+      "index": 38
+    },
+    {
+      "id": "10632",
+      "name": "双子守护神",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/twinguardians1.png",
+      "index": 39
+    },
+    {
+      "id": "20041",
+      "name": "双排",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/douqueue2.png",
+      "index": 40
+    },
+    {
+      "id": "20015",
+      "name": "反响",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/replication2.png",
+      "index": 41
+    },
+    {
+      "id": "20031",
+      "name": "发条增速器",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/clockworkaccelerator2.png",
+      "index": 42
+    },
+    {
+      "id": "2127",
+      "name": "变形重组器",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/recombobulator1.png",
+      "index": 43
+    },
+    {
+      "id": "30637",
+      "name": "可大可小",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/minmax3.png",
+      "index": 44
+    },
+    {
+      "id": "30705",
+      "name": "后排蓝图",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/backlineblueprint2.png",
+      "index": 45
+    },
+    {
+      "id": "1147",
+      "name": "后期专家",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/lategamespecialist1.png",
+      "index": 46
+    },
+    {
+      "id": "20661",
+      "name": "后期收益",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/lategamescaling2.png",
+      "index": 47
+    },
+    {
+      "id": "1134",
+      "name": "嘀个痛快！ I",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/rollingfordays1.png",
+      "index": 48
+    },
+    {
+      "id": "2069",
+      "name": "嘀嘀街区",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/trade2.png",
+      "index": 49
+    },
+    {
+      "id": "3069",
+      "name": "嘀嘀街区加强版",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/trade2.png",
+      "index": 50
+    },
+    {
+      "id": "20742",
+      "name": "四之力",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/fourcing2.png",
+      "index": 51
+    },
+    {
+      "id": "1895",
+      "name": "四费增援",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/reinfourcement2.png",
+      "index": 52
+    },
+    {
+      "id": "1646",
+      "name": "团队建设",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/buildinganarmy1.png",
+      "index": 53
+    },
+    {
+      "id": "30521",
+      "name": "坚守防线",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/holdtheline3.png",
+      "index": 54
+    },
+    {
+      "id": "30747",
+      "name": "基础装备大冒险",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/componentquest3.png",
+      "index": 55
+    },
+    {
+      "id": "1718",
+      "name": "基础装备自助餐",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/thecustomerisalwaysright1.png",
+      "index": 56
+    },
+    {
+      "id": "4069",
+      "name": "大买特买",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/trade3.png",
+      "index": 57
+    },
+    {
+      "id": "30182",
+      "name": "大剑溢流",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/bladeoverflow3.png",
+      "index": 58
+    },
+    {
+      "id": "2184",
+      "name": "大百宝袋",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/grabbag2.png",
+      "index": 59
+    },
+    {
+      "id": "30034",
+      "name": "大而有力",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/giantandmighty3.png",
+      "index": 60
+    },
+    {
+      "id": "20777",
+      "name": "太阳的抉择",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/solaraugment1.png",
+      "index": 61
+    },
+    {
+      "id": "30680",
+      "name": "奢侈品订购",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/luxurysubscription3.png",
+      "index": 62
+    },
+    {
+      "id": "20769",
+      "name": "女巫使魔",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/covenaugment2.png",
+      "index": 63
+    },
+    {
+      "id": "2133",
+      "name": "好事成双 II",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/doubletrouble2.png",
+      "index": 64
+    },
+    {
+      "id": "1002",
+      "name": "存心失利",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/calculatedloss2.png",
+      "index": 65
+    },
+    {
+      "id": "20625",
+      "name": "宝宝学院",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/earlylearning2.png",
+      "index": 66
+    },
+    {
+      "id": "1713",
+      "name": "对冲基金",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/richgetricher3.png",
+      "index": 67
+    },
+    {
+      "id": "10631",
+      "name": "小小福袋",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/smallgrabbag1.png",
+      "index": 68
+    },
+    {
+      "id": "20763",
+      "name": "巨化术",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/faeaugment2.png",
+      "index": 69
+    },
+    {
+      "id": "1019",
+      "name": "并肩作战 I",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/standunited1.png",
+      "index": 70
+    },
+    {
+      "id": "2276",
+      "name": "幸运手套",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/luckygloves3.png",
+      "index": 71
+    },
+    {
+      "id": "3276",
+      "name": "幸运手套+",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/luckygloves3.png",
+      "index": 72
+    },
+    {
+      "id": "1023",
+      "name": "应急护甲 I",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/makeshift1.png",
+      "index": 73
+    },
+    {
+      "id": "2023",
+      "name": "应急护甲 II",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/makeshift2.png",
+      "index": 74
+    },
+    {
+      "id": "20489",
+      "name": "应急护盾",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/plotarmor2.png",
+      "index": 75
+    },
+    {
+      "id": "30774",
+      "name": "弈子套娃",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/nestingdolls3.png",
+      "index": 76
+    },
+    {
+      "id": "10751",
+      "name": "弈子配送",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/champdelivery1.png",
+      "index": 77
+    },
+    {
+      "id": "10752",
+      "name": "弈子配送+",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/champdelivery1.png",
+      "index": 78
+    },
+    {
+      "id": "10753",
+      "name": "弈子配送++",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/champdelivery1.png",
+      "index": 79
+    },
+    {
+      "id": "10196",
+      "name": "弑君突刺",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/kingslayer1.png",
+      "index": 80
+    },
+    {
+      "id": "20224",
+      "name": "强化之能量",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/powerup1.png",
+      "index": 81
+    },
+    {
+      "id": "20208",
+      "name": "征战之路",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/warpath2.png",
+      "index": 82
+    },
+    {
+      "id": "20578",
+      "name": "心之钢",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/healthygains2.png",
+      "index": 83
+    },
+    {
+      "id": "20258",
+      "name": "恶意货币化",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/mirroredmonetization2.png",
+      "index": 84
+    },
+    {
+      "id": "30205",
+      "name": "意料之中的意外",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/addictedtorolling3.png",
+      "index": 85
+    },
+    {
+      "id": "3695",
+      "name": "成吨的伤害",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/phreakyfriday3.png",
+      "index": 86
+    },
+    {
+      "id": "4695",
+      "name": "成吨的伤害+",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/phreakyfriday3.png",
+      "index": 87
+    },
+    {
+      "id": "2705",
+      "name": "成吨的属性！",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/tonsofstats2.png",
+      "index": 88
+    },
+    {
+      "id": "3705",
+      "name": "成吨的属性！",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/tonsofstats3.png",
+      "index": 89
+    },
+    {
+      "id": "10583",
+      "name": "战时补给：反曲之弓",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/recurvewrecker1.png",
+      "index": 90
+    },
+    {
+      "id": "10581",
+      "name": "战时补给：女神之泪",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/griefofthegreatgoddess1.png",
+      "index": 91
+    },
+    {
+      "id": "10579",
+      "name": "战时补给：巨人腰带",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/extrabuckles1.png",
+      "index": 92
+    },
+    {
+      "id": "10580",
+      "name": "战时补给：无用大棒",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/hyperbolicrodextender1.png",
+      "index": 93
+    },
+    {
+      "id": "10582",
+      "name": "战时补给：暴风大剑",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/carveapath1.png",
+      "index": 94
+    },
+    {
+      "id": "10614",
+      "name": "手气不错",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/feelinglucky1.png",
+      "index": 95
+    },
+    {
+      "id": "1008",
+      "name": "打捞桶",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/salvage2.png",
+      "index": 96
+    },
+    {
+      "id": "2008",
+      "name": "打捞桶+",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/salvage2.png",
+      "index": 97
+    },
+    {
+      "id": "10731",
+      "name": "扩展包",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/boosterpack2.png",
+      "index": 98
+    },
+    {
+      "id": "20731",
+      "name": "扩展包+",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/boosterpack2.png",
+      "index": 99
+    },
+    {
+      "id": "30731",
+      "name": "扩展包++",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/boosterpack2.png",
+      "index": 100
+    },
+    {
+      "id": "20577",
+      "name": "承诺之护",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/promisedprotection2.png",
+      "index": 101
+    },
+    {
+      "id": "20009",
+      "name": "投资+",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/invested3.png",
+      "index": 102
+    },
+    {
+      "id": "30009",
+      "name": "投资++",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/invested3.png",
+      "index": 103
+    },
+    {
+      "id": "20217",
+      "name": "投资策略 I",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/investmentstrategy2.png",
+      "index": 104
+    },
+    {
+      "id": "30217",
+      "name": "投资策略 II",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/investmentstrategy3.png",
+      "index": 105
+    },
+    {
+      "id": "10615",
+      "name": "拥抱 I",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/grouphugi1.png",
+      "index": 106
+    },
+    {
+      "id": "10616",
+      "name": "拥抱 II",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/grouphugii2.png",
+      "index": 107
+    },
+    {
+      "id": "10573",
+      "name": "拳击课程",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/boxinglessons1.png",
+      "index": 108
+    },
+    {
+      "id": "30749",
+      "name": "拼盘天梯",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/traitladder3.png",
+      "index": 109
+    },
+    {
+      "id": "20649",
+      "name": "挑战者的优雅",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/combatgrace2.png",
+      "index": 110
+    },
+    {
+      "id": "20013",
+      "name": "挖角",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/pilfer2.png",
+      "index": 111
+    },
+    {
+      "id": "20642",
+      "name": "摇钱树",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/money-monsoon3.png",
+      "index": 112
+    },
+    {
+      "id": "20575",
+      "name": "救赎盔甲",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/spiritofredemption2.png",
+      "index": 113
+    },
+    {
+      "id": "3066",
+      "name": "新人入队",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/newrecruit3.png",
+      "index": 114
+    },
+    {
+      "id": "4066",
+      "name": "新人入队+",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/newrecruit3.png",
+      "index": 115
+    },
+    {
+      "id": "3896",
+      "name": "新纪元+",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/epoch2.png",
+      "index": 116
+    },
+    {
+      "id": "20780",
+      "name": "日月同辉",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/lunaraugment2.png",
+      "index": 117
+    },
+    {
+      "id": "30780",
+      "name": "日月同辉+",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/lunaraugment22.png",
+      "index": 118
+    },
+    {
+      "id": "20498",
+      "name": "时间跳跃",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/timeskip2.png",
+      "index": 119
+    },
+    {
+      "id": "2022",
+      "name": "星界赐福 II",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/celestialblessing2.png",
+      "index": 120
+    },
+    {
+      "id": "3022",
+      "name": "星界赐福 III",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/celestialblessing3.png",
+      "index": 121
+    },
+    {
+      "id": "20783",
+      "name": "是我，宝贝！",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/itsmebaby2.png",
+      "index": 122
+    },
+    {
+      "id": "20502",
+      "name": "更要命的帽子",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/deadliercaps3.png",
+      "index": 123
+    },
+    {
+      "id": "20503",
+      "name": "更要命的战刃",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/deadlierblades3.png",
+      "index": 124
+    },
+    {
+      "id": "1789",
+      "name": "有用之材 I",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/goodforsomething1.png",
+      "index": 125
+    },
+    {
+      "id": "20629",
+      "name": "杖之工匠",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/rodsmith2.png",
+      "index": 126
+    },
+    {
+      "id": "3852",
+      "name": "来个好伙计！",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/constructacompanion3.png",
+      "index": 127
+    },
+    {
+      "id": "10048",
+      "name": "核心位的觉悟",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/findyourcenter1.png",
+      "index": 128
+    },
+    {
+      "id": "30491",
+      "name": "棱彩命运",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/silverdestinygoldendestinyprismaticdestiny3.png",
+      "index": 129
+    },
+    {
+      "id": "30655",
+      "name": "棱彩命运+",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/silverdestinygoldendestinyprismaticdestiny3.png",
+      "index": 130
+    },
+    {
+      "id": "3065",
+      "name": "棱彩门票",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/goldenticket3.png",
+      "index": 131
+    },
+    {
+      "id": "20767",
+      "name": "欧米茄之怪",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/riftbeastaugment22.png",
+      "index": 132
+    },
+    {
+      "id": "30767",
+      "name": "欧米茄之怪",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/riftbeastaugment22.png",
+      "index": 133
+    },
+    {
+      "id": "30613",
+      "name": "正义报复",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/retribution3.png",
+      "index": 134
+    },
+    {
+      "id": "10744",
+      "name": "残留魔力",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/residualmagic1.png",
+      "index": 135
+    },
+    {
+      "id": "20744",
+      "name": "残留魔力+",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/residualmagic1.png",
+      "index": 136
+    },
+    {
+      "id": "30744",
+      "name": "残留魔力++",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/residualmagic1.png",
+      "index": 137
+    },
+    {
+      "id": "20770",
+      "name": "毛茸茸小朋友",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/sprykinaugment2.png",
+      "index": 138
+    },
+    {
+      "id": "30770",
+      "name": "毛茸茸小朋友",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/sprykinaugment2.png",
+      "index": 139
+    },
+    {
+      "id": "20733",
+      "name": "水乳交融",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/westicktogeter3.png",
+      "index": 140
+    },
+    {
+      "id": "20785",
+      "name": "水乳交融",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/westicktogeter3.png",
+      "index": 141
+    },
+    {
+      "id": "1634",
+      "name": "治疗法球 I",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/healingorbs1.png",
+      "index": 142
+    },
+    {
+      "id": "2634",
+      "name": "治疗法球 II",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/healingorbs2.png",
+      "index": 143
+    },
+    {
+      "id": "30181",
+      "name": "法杖溢流",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/wandoverflow3.png",
+      "index": 144
+    },
+    {
+      "id": "20471",
+      "name": "泪流成河",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/crymeariver2.png",
+      "index": 145
+    },
+    {
+      "id": "3270",
+      "name": "活体锻炉",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/livingforge3.png",
+      "index": 146
+    },
+    {
+      "id": "3851",
+      "name": "混沌召唤",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/calltochaos3.png",
+      "index": 147
+    },
+    {
+      "id": "1011",
+      "name": "清晰头脑",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/clearmind2.png",
+      "index": 148
+    },
+    {
+      "id": "1478",
+      "name": "游神的盟友",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/caretakerschosenlegend1.png",
+      "index": 149
+    },
+    {
+      "id": "2478",
+      "name": "游神的眷顾",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/caretakerschosenlegend2.png",
+      "index": 150
+    },
+    {
+      "id": "2110",
+      "name": "源计划上行链路",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/cyberneticuplink2.png",
+      "index": 151
+    },
+    {
+      "id": "2018",
+      "name": "源计划植入",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/cybernetic2.png",
+      "index": 152
+    },
+    {
+      "id": "1148",
+      "name": "潘朵拉的备战席",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/pandora_sbench1.png",
+      "index": 153
+    },
+    {
+      "id": "1007",
+      "name": "潘朵拉的装备 I",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/pandora1.png",
+      "index": 154
+    },
+    {
+      "id": "2007",
+      "name": "潘朵拉的装备 II",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/pandora2.png",
+      "index": 155
+    },
+    {
+      "id": "3007",
+      "name": "潘朵拉的装备 III",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/pandora3.png",
+      "index": 156
+    },
+    {
+      "id": "10746",
+      "name": "灌铅骰子",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/loadeddice1.png",
+      "index": 157
+    },
+    {
+      "id": "40006",
+      "name": "灵活摇摆",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/flexible3.png",
+      "index": 158
+    },
+    {
+      "id": "30599",
+      "name": "灵魂唤醒",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/awakenedsoul3.png",
+      "index": 159
+    },
+    {
+      "id": "20586",
+      "name": "炽天使之拥",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/seraphimsstaff2.png",
+      "index": 160
+    },
+    {
+      "id": "20027",
+      "name": "爆炸式增长",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/explosivegrowth2.png",
+      "index": 161
+    },
+    {
+      "id": "30027",
+      "name": "爆炸式增长+",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/explosivegrowth2.png",
+      "index": 162
+    },
+    {
+      "id": "2917",
+      "name": "物尽其用",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/slammin2.png",
+      "index": 163
+    },
+    {
+      "id": "3917",
+      "name": "物尽其用+",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/slammin2.png",
+      "index": 164
+    },
+    {
+      "id": "20496",
+      "name": "独自升级",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/sololeveling2.png",
+      "index": 165
+    },
+    {
+      "id": "10253",
+      "name": "玻璃大炮 I",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/glasscannon1.png",
+      "index": 166
+    },
+    {
+      "id": "20253",
+      "name": "玻璃大炮 II",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/glasscannon2.png",
+      "index": 167
+    },
+    {
+      "id": "3486",
+      "name": "珍藏财宝III",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/buriedtreasureslegend3.png",
+      "index": 168
+    },
+    {
+      "id": "2128",
+      "name": "珠光莲花 I",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/jeweledlotus2.png",
+      "index": 169
+    },
+    {
+      "id": "3128",
+      "name": "珠光莲花 II",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/jeweledlotus3.png",
+      "index": 170
+    },
+    {
+      "id": "30665",
+      "name": "甜点",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/sweettreats3.png",
+      "index": 171
+    },
+    {
+      "id": "2294",
+      "name": "生日礼物",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/treasuretrove3.png",
+      "index": 172
+    },
+    {
+      "id": "20624",
+      "name": "生日聚会",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/birthdayreunion2.png",
+      "index": 173
+    },
+    {
+      "id": "10708",
+      "name": "电火花 I",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/electrocharging1.png",
+      "index": 174
+    },
+    {
+      "id": "20708",
+      "name": "电火花 II",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/electrocharging2.png",
+      "index": 175
+    },
+    {
+      "id": "30617",
+      "name": "男爵幻域",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/thebaronslair3.png",
+      "index": 176
+    },
+    {
+      "id": "10494",
+      "name": "白银命运",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/silverdestinygoldendestinyprismaticdestiny1.png",
+      "index": 177
+    },
+    {
+      "id": "20494",
+      "name": "白银命运+",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/silverdestinygoldendestinyprismaticdestiny1.png",
+      "index": 178
+    },
+    {
+      "id": "30494",
+      "name": "白银命运++",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/silverdestinygoldendestinyprismaticdestiny1.png",
+      "index": 179
+    },
+    {
+      "id": "20480",
+      "name": "砍价高手",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/hardbargain2.png",
+      "index": 180
+    },
+    {
+      "id": "40008",
+      "name": "硬性承诺",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/hardcommit3.png",
+      "index": 181
+    },
+    {
+      "id": "30627",
+      "name": "神力天铸",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/forgedinstrength3.png",
+      "index": 182
+    },
+    {
+      "id": "1068",
+      "name": "秘法帮派",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/bandthieves1.png",
+      "index": 183
+    },
+    {
+      "id": "3068",
+      "name": "秘法帮派 II",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/bandthieves3.png",
+      "index": 184
+    },
+    {
+      "id": "30678",
+      "name": "秘法帮派 II+",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/bandthieves3.png",
+      "index": 185
+    },
+    {
+      "id": "30679",
+      "name": "秘法帮派 II++",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/bandthieves3.png",
+      "index": 186
+    },
+    {
+      "id": "20758",
+      "name": "等待得值",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/weighttheworth22.png",
+      "index": 187
+    },
+    {
+      "id": "10214",
+      "name": "精心打造",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/craftedcrafting1.png",
+      "index": 188
+    },
+    {
+      "id": "10750",
+      "name": "纵深 I",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/verticality1.png",
+      "index": 189
+    },
+    {
+      "id": "20750",
+      "name": "纵深 II",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/verticality2.png",
+      "index": 190
+    },
+    {
+      "id": "30750",
+      "name": "纵深 III",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/verticality3.png",
+      "index": 191
+    },
+    {
+      "id": "2189",
+      "name": "纷乱头脑",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/dizzy2.png",
+      "index": 192
+    },
+    {
+      "id": "30634",
+      "name": "纹章树",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/thetraittree3.png",
+      "index": 193
+    },
+    {
+      "id": "30682",
+      "name": "纹章树+",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/thetraittree3.png",
+      "index": 194
+    },
+    {
+      "id": "20673",
+      "name": "纺织魔法",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/wovenmagicthevidalion2.png",
+      "index": 195
+    },
+    {
+      "id": "10242",
+      "name": "终身黄铜 I",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/bronzeforlifei2.png",
+      "index": 196
+    },
+    {
+      "id": "20242",
+      "name": "终身黄铜 II",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/bronzeforlifei3.png",
+      "index": 197
+    },
+    {
+      "id": "20643",
+      "name": "绝境反击",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/comebackstory3.png",
+      "index": 198
+    },
+    {
+      "id": "10777",
+      "name": "绽灵花的约定",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/wisprebate2.png",
+      "index": 199
+    },
+    {
+      "id": "3158",
+      "name": "耐心学习",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/learningfromexperience2.png",
+      "index": 200
+    },
+    {
+      "id": "10011",
+      "name": "耐心是一种美德",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/patienceisavirtue1.png",
+      "index": 201
+    },
+    {
+      "id": "10252",
+      "name": "腐蚀",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/corrosion1.png",
+      "index": 202
+    },
+    {
+      "id": "30180",
+      "name": "腰带溢流",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/beltoverflow3.png",
+      "index": 203
+    },
+    {
+      "id": "20768",
+      "name": "自然庇护所",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/elderwoodaugment2.png",
+      "index": 204
+    },
+    {
+      "id": "30760",
+      "name": "致命丽花",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/florafatalisaugment22.png",
+      "index": 205
+    },
+    {
+      "id": "1158",
+      "name": "节外生枝",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/branchingout1.png",
+      "index": 206
+    },
+    {
+      "id": "4158",
+      "name": "节外生枝+",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/branchingout1.png",
+      "index": 207
+    },
+    {
+      "id": "1003",
+      "name": "花到上头",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/hyperroll2.png",
+      "index": 208
+    },
+    {
+      "id": "2804",
+      "name": "英勇福袋",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/heroicgrabbag2.png",
+      "index": 209
+    },
+    {
+      "id": "3804",
+      "name": "英勇福袋+",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/heroicgrabbag2.png",
+      "index": 210
+    },
+    {
+      "id": "4804",
+      "name": "英勇福袋++",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/heroicgrabbag2.png",
+      "index": 211
+    },
+    {
+      "id": "20654",
+      "name": "获得21金币",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/windfall2.png",
+      "index": 212
+    },
+    {
+      "id": "20633",
+      "name": "蔓延之根",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/spreadingroots2.png",
+      "index": 213
+    },
+    {
+      "id": "20681",
+      "name": "蔓延之根+",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/spreadingroots2.png",
+      "index": 214
+    },
+    {
+      "id": "20761",
+      "name": "装备提炼",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/eldritchaugment2.png",
+      "index": 215
+    },
+    {
+      "id": "1006",
+      "name": "装备百宝袋 I",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/itemgrabbag1.png",
+      "index": 216
+    },
+    {
+      "id": "10584",
+      "name": "认知税",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/cognitivetax1.png",
+      "index": 217
+    },
+    {
+      "id": "10585",
+      "name": "认知税+",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/cognitivetax1.png",
+      "index": 218
+    },
+    {
+      "id": "20613",
+      "name": "认知过载",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/cognitiveoverload2.png",
+      "index": 219
+    },
+    {
+      "id": "3269",
+      "name": "诅咒冠冕",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/cursedcrown3.png",
+      "index": 220
+    },
+    {
+      "id": "20701",
+      "name": "贪财",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/moneyhungry2.png",
+      "index": 221
+    },
+    {
+      "id": "30701",
+      "name": "贪财+",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/moneyhungry2.png",
+      "index": 222
+    },
+    {
+      "id": "30656",
+      "name": "贸易中心",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/trade3.png",
+      "index": 223
+    },
+    {
+      "id": "10755",
+      "name": "资本利得 I",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/capitalgains1.png",
+      "index": 224
+    },
+    {
+      "id": "20755",
+      "name": "资本利得 II",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/capitalgains2.png",
+      "index": 225
+    },
+    {
+      "id": "10559",
+      "name": "轻量魔法投掷",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/slightlymagicroll1.png",
+      "index": 226
+    },
+    {
+      "id": "10004",
+      "name": "进攻宣告",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/calledshot1.png",
+      "index": 227
+    },
+    {
+      "id": "10707",
+      "name": "远征",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/expedition1.png",
+      "index": 228
+    },
+    {
+      "id": "10756",
+      "name": "连败连胜才能连鸡",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/rapidstreaker1.png",
+      "index": 229
+    },
+    {
+      "id": "3809",
+      "name": "遥遥领先",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/goinglong3.png",
+      "index": 230
+    },
+    {
+      "id": "1021",
+      "name": "部分飞升",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/ascension1.png",
+      "index": 231
+    },
+    {
+      "id": "20779",
+      "name": "野兽出没",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/riftbeastaugment2.png",
+      "index": 232
+    },
+    {
+      "id": "20225",
+      "name": "金色炊具",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/cookingpot2.png",
+      "index": 233
+    },
+    {
+      "id": "3137",
+      "name": "金蛋",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/thegoldenegg3.png",
+      "index": 234
+    },
+    {
+      "id": "20651",
+      "name": "金霖龙",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/thegoldendragon2.png",
+      "index": 235
+    },
+    {
+      "id": "30045",
+      "name": "金鳞精粹",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/shimmerscaleessence3.png",
+      "index": 236
+    },
+    {
+      "id": "1714",
+      "name": "银汤匙",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/silverspoon1.png",
+      "index": 237
+    },
+    {
+      "id": "30187",
+      "name": "锅铲厨房",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/tacticianskitchen3.png",
+      "index": 238
+    },
+    {
+      "id": "30757",
+      "name": "锻造器套娃",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/nestinganvils3.png",
+      "index": 239
+    },
+    {
+      "id": "40757",
+      "name": "锻造器套娃+",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/nestinganvils3.png",
+      "index": 240
+    },
+    {
+      "id": "10571",
+      "name": "锻造挚友",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/constructacompanion1.png",
+      "index": 241
+    },
+    {
+      "id": "20698",
+      "name": "镀金钢铁",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/gildedsteel2.png",
+      "index": 242
+    },
+    {
+      "id": "2185",
+      "name": "阿福的百宝袋",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/urfsgrabbag33.png",
+      "index": 243
+    },
+    {
+      "id": "20759",
+      "name": "顶尖构筑",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/maxbuild2.png",
+      "index": 244
+    },
+    {
+      "id": "2021",
+      "name": "飞升",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/finalascension2.png",
+      "index": 245
+    },
+    {
+      "id": "10587",
+      "name": "高塔",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/thetower1.png",
+      "index": 246
+    },
+    {
+      "id": "10754",
+      "name": "高瞻远瞩",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/futurefocused1.png",
+      "index": 247
+    },
+    {
+      "id": "30584",
+      "name": "高级贷款",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/advancedloan2.png",
+      "index": 248
+    },
+    {
+      "id": "20584",
+      "name": "高级贷款+",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/advancedloanplus2.png",
+      "index": 249
+    },
+    {
+      "id": "20205",
+      "name": "魔法投掷",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/amagicalroll2.png",
+      "index": 250
+    },
+    {
+      "id": "20477",
+      "name": "黄金命运",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/silverdestinygoldendestinyprismaticdestiny2.png",
+      "index": 251
+    },
+    {
+      "id": "20478",
+      "name": "黄金命运+",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/silverdestinygoldendestinyprismaticdestiny2.png",
+      "index": 252
+    },
+    {
+      "id": "20721",
+      "name": "黄金赌约",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/goldengamble3.png",
+      "index": 253
+    },
+    {
+      "id": "20722",
+      "name": "黄金赌约+",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/goldengamble3.png",
+      "index": 254
+    },
+    {
+      "id": "20723",
+      "name": "黄金赌约++",
+      "tier": 3,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/goldengamble3.png",
+      "index": 255
+    },
+    {
+      "id": "20778",
+      "name": "黑暗仪式",
+      "tier": 2,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/covenaugment2.png",
+      "index": 256
+    },
+    {
+      "id": "1701",
+      "name": "黑铁资产",
+      "tier": 1,
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/hex/ironassets1.png",
+      "index": 257
+    }
+  ],
+  "cases": [
+    {
+      "file": "augment-taken/0003.png",
+      "array": "augment-taken/0003.png",
+      "rect": [
+        450,
+        280,
+        610,
+        340
+      ],
+      "expected": [
+        "征战之路"
+      ],
+      "spectate": false
+    },
+    {
+      "file": "augment-taken/0005.png",
+      "array": "augment-taken/0005.png",
+      "rect": [
+        450,
+        280,
+        610,
+        340
+      ],
+      "expected": [
+        "征战之路",
+        "大剑溢流"
+      ],
+      "spectate": false
+    },
+    {
+      "file": "augment-taken/0007.png",
+      "array": "augment-taken/0007.png",
+      "rect": [
+        450,
+        280,
+        610,
+        340
+      ],
+      "expected": [
+        "征战之路",
+        "大剑溢流",
+        "欧米茄之怪"
+      ],
+      "spectate": false
+    },
+    {
+      "file": "augment-pick/0001.png",
+      "array": "augment-pick/0001.png",
+      "rect": [
+        450,
+        280,
+        610,
+        340
+      ],
+      "expected": [],
+      "spectate": false
+    },
+    {
+      "file": "0000.jpg",
+      "array": "0000.jpg",
+      "rect": [
+        450,
+        280,
+        610,
+        340
+      ],
+      "expected": [
+        "纷乱头脑"
+      ],
+      "spectate": false
+    },
+    {
+      "file": "0051.jpg",
+      "array": "0051.jpg",
+      "rect": [
+        450,
+        280,
+        610,
+        340
+      ],
+      "expected": [
+        "纷乱头脑",
+        "白银命运+",
+        "电火花 I"
+      ],
+      "spectate": false
+    },
+    {
+      "file": "0063.jpg",
+      "array": "0063.jpg",
+      "rect": [
+        450,
+        280,
+        610,
+        340
+      ],
+      "expected": [
+        "纷乱头脑",
+        "白银命运+",
+        "电火花 I"
+      ],
+      "spectate": false
+    },
+    {
+      "file": "spectate/0003.png",
+      "array": "spectate/0003.png",
+      "rect": [
+        450,
+        280,
+        610,
+        340
+      ],
+      "expected": [],
+      "spectate": true
+    }
+  ]
+}

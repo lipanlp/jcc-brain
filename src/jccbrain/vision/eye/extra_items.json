@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "name": "装备拆卸器",
+      "kind": "通用道具",
+      "templates": [
+        {"frame": "0000.jpg", "slot": 0, "rect": [20, 129, 80, 190]},
+        {"frame": "0018.jpg", "slot": 0, "rect": [20, 129, 80, 190]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{"_file": "digits/0001.png", "split": "validation", "fields": {"stage": "2-2", "timer": 16, "gold": 16, "level": 3, "xp": [4, 6], "streak.n": 1, "odds": [75, 25, 0, 0, 0], "xp_cost": 4, "refresh_cost": 0}}
+{"_file": "digits/0002.png", "split": "validation", "fields": {"stage": "2-4", "timer": 0, "gold": null, "level": null, "xp": null, "streak.n": null, "odds": null, "xp_cost": null, "refresh_cost": null}}
+{"_file": "digits/0003.png", "split": "validation", "fields": {"stage": "2-7", "timer": 19, "gold": 38, "level": 5, "xp": [4, 20], "streak.n": 1, "odds": [45, 33, 20, 2, 0], "xp_cost": 4, "refresh_cost": 0}}
+{"_file": "digits/0004.png", "split": "validation", "fields": {"stage": "3-1", "timer": 28, "gold": 49, "level": 5, "xp": [6, 20], "streak.n": 1, "odds": [45, 33, 20, 2, 0], "xp_cost": 4, "refresh_cost": 0}}
+{"_file": "digits/0005.png", "split": "validation", "fields": {"stage": "3-4", "timer": 0, "gold": null, "level": null, "xp": null, "streak.n": null, "odds": null, "xp_cost": null, "refresh_cost": null}}
+{"_file": "digits/0006.png", "split": "template", "fields": {"stage": "3-7", "timer": 18, "gold": 63, "level": 7, "xp": [4, 56], "streak.n": 6, "odds": [19, 30, 40, 10, 1], "xp_cost": 4, "refresh_cost": 0}}
+{"_file": "digits/0007.png", "split": "validation", "fields": {"stage": "4-1", "timer": 0, "gold": 14, "level": 6, "xp": [10, 36], "streak.n": 1, "odds": [30, 40, 25, 5, 0], "xp_cost": 4, "refresh_cost": 0}}
+{"_file": "digits/0008.png", "split": "template", "fields": {"stage": "4-3", "timer": 11, "gold": 39, "level": 8, "xp": [10, 68], "streak.n": 3, "odds": [15, 20, 32, 30, 3], "xp_cost": 4, "refresh_cost": 2}}
+{"_file": "digits/0009.png", "split": "template", "fields": {"stage": "4-3", "timer": 16, "gold": 15, "level": 8, "xp": [58, 68], "streak.n": 3, "odds": [15, 20, 32, 30, 3], "xp_cost": 4, "refresh_cost": 2}}
+{"_file": "digits/0010.png", "split": "validation", "fields": {"stage": "4-3", "timer": 13, "gold": 41, "level": 7, "xp": [18, 56], "streak.n": 10, "odds": [19, 30, 40, 10, 1], "xp_cost": 4, "refresh_cost": 2}}
+{"_file": "digits/0011.png", "split": "template", "fields": {"stage": "4-5", "timer": 26, "gold": 57, "level": 8, "xp": [4, 68], "streak.n": 3, "odds": [15, 20, 32, 30, 3], "xp_cost": 4, "refresh_cost": 2}}
+{"_file": "digits/0012.png", "split": "validation", "fields": {"stage": "4-7", "timer": 26, "gold": 48, "level": 8, "xp": [8, 68], "streak.n": 1, "odds": [15, 20, 32, 30, 3], "xp_cost": 4, "refresh_cost": 2}}
+{"_file": "digits/0013.png", "split": "validation", "fields": {"stage": "5-4", "timer": 0, "gold": null, "level": null, "xp": null, "streak.n": null, "odds": null, "xp_cost": null, "refresh_cost": null}}

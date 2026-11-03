@@ -1,0 +1,2316 @@
+{
+  "schema": "vision-session-human-v1",
+  "provenance": "human_pixel_review",
+  "reviewer": "executor: manual CG pixel inspection before opening new predictions",
+  "created_at": 1792769318.692213,
+  "selection_sha256": "3ab40875c4595241b607ea729f7461b978933710a891f88937fc9b5f8ce8f600",
+  "method": "Fixed 37 frames; unannotated originals, 1.5x CG crops and sheets reviewed first. Coordinates measured manually at HP-slot centers; no detector/old state/prediction used for labels. Visible enemy HP units include summons, exclude thick legends and decoration; fully hidden bars not invented. Unknowns never correct.",
+  "coordinate_measurement": "1.5x board crop origin (212,90) in 1774x1136 image, manually measured crop coordinates then normalized.",
+  "frames": [
+    {
+      "_file": "00036.jpg",
+      "sha256": "5e7178f0c1ae906561bd3f99c95767f30365c4629de42ef010165edf38abe24d",
+      "opponent_audit": false,
+      "phase": {
+        "status": "known",
+        "value": "planning",
+        "evidence": "己方棋盘准备中，顶部回合与底部金币/等级可直接读。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "2-3",
+        "evidence": "顶部HUD可直接读 2-3"
+      },
+      "gold": {
+        "status": "known",
+        "value": 7,
+        "evidence": "底部经济栏可直接读 7"
+      },
+      "level": {
+        "status": "known",
+        "value": 5,
+        "evidence": "底部经济栏可直接读 5"
+      }
+    },
+    {
+      "_file": "00070.jpg",
+      "sha256": "88fe7771de01f870855b9b2b8fd2e946670ea67e1432e31a0c95cab9440550b3",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "后排三根完整橙条，前排一根残橙条；橙色4级名字粗条是对手小小英雄，不计。绿色5根、左下本人粗条和伤害字不计。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "2-3",
+        "evidence": "顶部HUD可直接读 2-3"
+      },
+      "gold": {
+        "status": "known",
+        "value": 11,
+        "evidence": "底部经济栏可直接读 11"
+      },
+      "level": {
+        "status": "known",
+        "value": 5,
+        "evidence": "底部经济栏可直接读 5"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 4,
+        "evidence": "后排三根完整橙条，前排一根残橙条；橙色4级名字粗条是对手小小英雄，不计。绿色5根、左下本人粗条和伤害字不计。",
+        "positions": [
+          [
+            0.35024,
+            0.13204
+          ],
+          [
+            0.40361,
+            0.13674
+          ],
+          [
+            0.45509,
+            0.15962
+          ],
+          [
+            0.53514,
+            0.26232
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.47651,
+            0.28756
+          ],
+          [
+            0.59113,
+            0.27582
+          ],
+          [
+            0.50658,
+            0.3257
+          ],
+          [
+            0.56971,
+            0.35094
+          ],
+          [
+            0.61105,
+            0.54225
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "后排三根完整橙条，前排一根残橙条；橙色4级名字粗条是对手小小英雄，不计。绿色5根、左下本人粗条和伤害字不计。"
+      }
+    },
+    {
+      "_file": "00079.jpg",
+      "sha256": "a29cdd4afc5b23e4a05a901053cc5d6ecf43d9abfe31a3ba9613bd091b7aa010",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "只剩左上窄橙条；相邻四根绿条、右上名字粗条、221/48伤害字不计。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "2-3",
+        "evidence": "顶部HUD可直接读 2-3"
+      },
+      "gold": {
+        "status": "known",
+        "value": 11,
+        "evidence": "底部经济栏可直接读 11"
+      },
+      "level": {
+        "status": "known",
+        "value": 5,
+        "evidence": "底部经济栏可直接读 5"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 1,
+        "evidence": "只剩左上窄橙条；相邻四根绿条、右上名字粗条、221/48伤害字不计。",
+        "positions": [
+          [
+            0.35024,
+            0.13204
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.36452,
+            0.17606
+          ],
+          [
+            0.42014,
+            0.15376
+          ],
+          [
+            0.45434,
+            0.15023
+          ],
+          [
+            0.44307,
+            0.402
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "只剩左上窄橙条；相邻四根绿条、右上名字粗条、221/48伤害字不计。"
+      }
+    },
+    {
+      "_file": "00110.jpg",
+      "sha256": "116ea05e8efe44456d35284ec7af286171ea0dfab27b4604ca3784c123d32ce1",
+      "opponent_audit": false,
+      "phase": {
+        "status": "known",
+        "value": "carousel",
+        "evidence": "选秀场景，商店和经济栏不可见。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "2-4",
+        "evidence": "顶部HUD可直接读 2-4"
+      },
+      "gold": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "选秀场景，商店和经济栏不可见。"
+      },
+      "level": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "选秀场景，商店和经济栏不可见。"
+      }
+    },
+    {
+      "_file": "00177.jpg",
+      "sha256": "9ed0f5dc4f667206600c28e6dfd5db21252a86e6198063bad49bf9f196846139",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "上方两根橙条、中上带菱形残条、右侧橙条共4；最上方无血条站立角色不纳入血条口径。绿色5根和右上粗名牌均排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "2-5",
+        "evidence": "顶部HUD可直接读 2-5"
+      },
+      "gold": {
+        "status": "known",
+        "value": 22,
+        "evidence": "底部经济栏可直接读 22"
+      },
+      "level": {
+        "status": "known",
+        "value": 5,
+        "evidence": "底部经济栏可直接读 5"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 4,
+        "evidence": "上方两根橙条、中上带菱形残条、右侧橙条共4；最上方无血条站立角色不纳入血条口径。绿色5根和右上粗名牌均排除。",
+        "positions": [
+          [
+            0.49793,
+            0.15317
+          ],
+          [
+            0.54791,
+            0.15317
+          ],
+          [
+            0.53664,
+            0.1966
+          ],
+          [
+            0.63886,
+            0.30399
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.47012,
+            0.28756
+          ],
+          [
+            0.49568,
+            0.31162
+          ],
+          [
+            0.58549,
+            0.27582
+          ],
+          [
+            0.55693,
+            0.35153
+          ],
+          [
+            0.59827,
+            0.52993
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "上方两根橙条、中上带菱形残条、右侧橙条共4；最上方无血条站立角色不纳入血条口径。绿色5根和右上粗名牌均排除。"
+      }
+    },
+    {
+      "_file": "00183.jpg",
+      "sha256": "d6403bc21e4e2536458eff88046706278b173276bf40aa1f472adc1cc27553ee",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "同4根窄橙色血槽，其中中上仅残血；绿色5根、右上名字粗条和伤害字排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "2-5",
+        "evidence": "顶部HUD可直接读 2-5"
+      },
+      "gold": {
+        "status": "known",
+        "value": 22,
+        "evidence": "底部经济栏可直接读 22"
+      },
+      "level": {
+        "status": "known",
+        "value": 5,
+        "evidence": "底部经济栏可直接读 5"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 4,
+        "evidence": "同4根窄橙色血槽，其中中上仅残血；绿色5根、右上名字粗条和伤害字排除。",
+        "positions": [
+          [
+            0.49793,
+            0.15317
+          ],
+          [
+            0.54791,
+            0.15317
+          ],
+          [
+            0.55355,
+            0.21185
+          ],
+          [
+            0.63886,
+            0.30399
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.46749,
+            0.28756
+          ],
+          [
+            0.49493,
+            0.31279
+          ],
+          [
+            0.58549,
+            0.27582
+          ],
+          [
+            0.55693,
+            0.35153
+          ],
+          [
+            0.59827,
+            0.52993
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "同4根窄橙色血槽，其中中上仅残血；绿色5根、右上名字粗条和伤害字排除。"
+      }
+    },
+    {
+      "_file": "00254.jpg",
+      "sha256": "83fe58fc1103164f02a7d8e58e6bceaa9ea65dd0d2d320879641b39e74c3d164",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "橙色窄条后排3根前排2根共5；5根绿色血条、粗小小英雄名牌、32/35等伤害文字和中间圆形地板排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "2-6",
+        "evidence": "顶部HUD可直接读 2-6"
+      },
+      "gold": {
+        "status": "known",
+        "value": 31,
+        "evidence": "底部经济栏可直接读 31"
+      },
+      "level": {
+        "status": "known",
+        "value": 5,
+        "evidence": "底部经济栏可直接读 5"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 5,
+        "evidence": "橙色窄条后排3根前排2根共5；5根绿色血条、粗小小英雄名牌、32/35等伤害文字和中间圆形地板排除。",
+        "positions": [
+          [
+            0.34198,
+            0.09859
+          ],
+          [
+            0.4021,
+            0.14437
+          ],
+          [
+            0.6569,
+            0.12911
+          ],
+          [
+            0.47839,
+            0.27171
+          ],
+          [
+            0.53326,
+            0.28286
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.59263,
+            0.28052
+          ],
+          [
+            0.50507,
+            0.3169
+          ],
+          [
+            0.44307,
+            0.34624
+          ],
+          [
+            0.5652,
+            0.35505
+          ],
+          [
+            0.33822,
+            0.53228
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "橙色窄条后排3根前排2根共5；5根绿色血条、粗小小英雄名牌、32/35等伤害文字和中间圆形地板排除。"
+      }
+    },
+    {
+      "_file": "00259.jpg",
+      "sha256": "e072b74cf0acb03217354a2bb29b626160b0d282f9dcd982cff33f8a10422afb",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "后排3根及前排两根橙色血槽共5；火圈包围的绿色单位4根，橙色火圈本身不算敌方。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "2-6",
+        "evidence": "顶部HUD可直接读 2-6"
+      },
+      "gold": {
+        "status": "known",
+        "value": 31,
+        "evidence": "底部经济栏可直接读 31"
+      },
+      "level": {
+        "status": "known",
+        "value": 5,
+        "evidence": "底部经济栏可直接读 5"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 5,
+        "evidence": "后排3根及前排两根橙色血槽共5；火圈包围的绿色单位4根，橙色火圈本身不算敌方。",
+        "positions": [
+          [
+            0.34198,
+            0.09859
+          ],
+          [
+            0.4021,
+            0.14437
+          ],
+          [
+            0.6569,
+            0.12911
+          ],
+          [
+            0.50282,
+            0.26819
+          ],
+          [
+            0.47877,
+            0.31866
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.63247,
+            0.19777
+          ],
+          [
+            0.42916,
+            0.2811
+          ],
+          [
+            0.54754,
+            0.32042
+          ],
+          [
+            0.4006,
+            0.41843
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "后排3根及前排两根橙色血槽共5；火圈包围的绿色单位4根，橙色火圈本身不算敌方。"
+      }
+    },
+    {
+      "_file": "00384.jpg",
+      "sha256": "71e6f9ddee011d1a170916cb5109f18f65c9790898ead89163c0e378318cd387",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "橙条后排2根前排3根共5；中前方一根含白盾但仍有橙芯。6根绿色窄条、右上粗名牌和下方无血条备战棋子排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "3-1",
+        "evidence": "顶部HUD可直接读 3-1"
+      },
+      "gold": {
+        "status": "known",
+        "value": 51,
+        "evidence": "底部经济栏可直接读 51"
+      },
+      "level": {
+        "status": "known",
+        "value": 6,
+        "evidence": "底部经济栏可直接读 6"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 5,
+        "evidence": "橙条后排2根前排3根共5；中前方一根含白盾但仍有橙芯。6根绿色窄条、右上粗名牌和下方无血条备战棋子排除。",
+        "positions": [
+          [
+            0.66667,
+            0.09859
+          ],
+          [
+            0.60616,
+            0.14378
+          ],
+          [
+            0.47463,
+            0.28932
+          ],
+          [
+            0.53363,
+            0.29225
+          ],
+          [
+            0.68207,
+            0.33744
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.42127,
+            0.27113
+          ],
+          [
+            0.50432,
+            0.3169
+          ],
+          [
+            0.44495,
+            0.34742
+          ],
+          [
+            0.56332,
+            0.35563
+          ],
+          [
+            0.62533,
+            0.33744
+          ],
+          [
+            0.33747,
+            0.53228
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "橙条后排2根前排3根共5；中前方一根含白盾但仍有橙芯。6根绿色窄条、右上粗名牌和下方无血条备战棋子排除。"
+      }
+    },
+    {
+      "_file": "00390.jpg",
+      "sha256": "95df498d4fe77a6a7e58a2cd157d227169c44725a933ed6ceaf43a06da07fcaa",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "剩3根橙条，右侧含白盾但仍有橙色内芯；六根绿色窄条和60/32等伤害字排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "3-1",
+        "evidence": "顶部HUD可直接读 3-1"
+      },
+      "gold": {
+        "status": "known",
+        "value": 51,
+        "evidence": "底部经济栏可直接读 51"
+      },
+      "level": {
+        "status": "known",
+        "value": 6,
+        "evidence": "底部经济栏可直接读 6"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 3,
+        "evidence": "剩3根橙条，右侧含白盾但仍有橙色内芯；六根绿色窄条和60/32等伤害字排除。",
+        "positions": [
+          [
+            0.66667,
+            0.09859
+          ],
+          [
+            0.60616,
+            0.14378
+          ],
+          [
+            0.68207,
+            0.33744
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.55581,
+            0.14789
+          ],
+          [
+            0.58437,
+            0.17077
+          ],
+          [
+            0.64449,
+            0.29871
+          ],
+          [
+            0.6257,
+            0.33744
+          ],
+          [
+            0.66629,
+            0.37852
+          ],
+          [
+            0.47351,
+            0.53228
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "剩3根橙条，右侧含白盾但仍有橙色内芯；六根绿色窄条和60/32等伤害字排除。"
+      }
+    },
+    {
+      "_file": "00409.jpg",
+      "sha256": "c850847c186881c37ee4eab35ffaa9dfffdbb3991747f022557a3108d7cd2211",
+      "opponent_audit": false,
+      "phase": {
+        "status": "known",
+        "value": "augment",
+        "evidence": "强化选择面板遮挡商店、金币和等级栏；不沿用相邻帧数字。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "3-2",
+        "evidence": "顶部HUD可直接读 3-2"
+      },
+      "gold": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "强化选择面板遮挡商店、金币和等级栏；不沿用相邻帧数字。"
+      },
+      "level": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "强化选择面板遮挡商店、金币和等级栏；不沿用相邻帧数字。"
+      }
+    },
+    {
+      "_file": "00420.jpg",
+      "sha256": "be8944bd0692a47b24d7bb7333974dc126cbed2afa569c8c87d9674467e64595",
+      "opponent_audit": false,
+      "phase": {
+        "status": "known",
+        "value": "augment",
+        "evidence": "强化选择面板遮挡商店、金币和等级栏。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "3-2",
+        "evidence": "顶部HUD可直接读 3-2"
+      },
+      "gold": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "强化选择面板遮挡商店、金币和等级栏。"
+      },
+      "level": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "强化选择面板遮挡商店、金币和等级栏。"
+      }
+    },
+    {
+      "_file": "00444.jpg",
+      "sha256": "aec25bb876350ac7dedb2ce11cebc6ab1eaba9a9534914fb5b504808721e764e",
+      "opponent_audit": false,
+      "phase": {
+        "status": "known",
+        "value": "planning",
+        "evidence": "己方棋盘准备中，顶部回合与底部金币/等级可直接读。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "3-2",
+        "evidence": "顶部HUD可直接读 3-2"
+      },
+      "gold": {
+        "status": "known",
+        "value": 65,
+        "evidence": "底部经济栏可直接读 65"
+      },
+      "level": {
+        "status": "known",
+        "value": 6,
+        "evidence": "底部经济栏可直接读 6"
+      }
+    },
+    {
+      "_file": "00459.jpg",
+      "sha256": "dfe7ba8dc69924042242ebb66d12541b688376c262f19de8c56ed99ca9235520",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "顶部3根、中部3根及植物/树木召唤物2根共8；沿用血条单位含召唤物口径，不按人口删去。绿色6根与金色护罩、34/125伤害字排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "3-2",
+        "evidence": "顶部HUD可直接读 3-2"
+      },
+      "gold": {
+        "status": "known",
+        "value": 50,
+        "evidence": "底部经济栏可直接读 50"
+      },
+      "level": {
+        "status": "known",
+        "value": 6,
+        "evidence": "底部经济栏可直接读 6"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 8,
+        "evidence": "顶部3根、中部3根及植物/树木召唤物2根共8；沿用血条单位含召唤物口径，不按人口删去。绿色6根与金色护罩、34/125伤害字排除。",
+        "positions": [
+          [
+            0.55092,
+            0.10739
+          ],
+          [
+            0.60053,
+            0.12617
+          ],
+          [
+            0.66328,
+            0.098
+          ],
+          [
+            0.52649,
+            0.25176
+          ],
+          [
+            0.41037,
+            0.28462
+          ],
+          [
+            0.46712,
+            0.28815
+          ],
+          [
+            0.58549,
+            0.28345
+          ],
+          [
+            0.64299,
+            0.25822
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.3788,
+            0.32453
+          ],
+          [
+            0.4333,
+            0.34566
+          ],
+          [
+            0.49681,
+            0.31162
+          ],
+          [
+            0.55505,
+            0.35153
+          ],
+          [
+            0.61744,
+            0.33157
+          ],
+          [
+            0.33033,
+            0.52934
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "顶部3根、中部3根及植物/树木召唤物2根共8；沿用血条单位含召唤物口径，不按人口删去。绿色6根与金色护罩、34/125伤害字排除。"
+      }
+    },
+    {
+      "_file": "00470.jpg",
+      "sha256": "3c30cc170aaf5175e0e2f3bf0bf144837b7630ec21b11c9cb292450908899b22",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "六根橙色血槽含中上残血+白盾、右中两召唤物；上中绿条、左中绿条、本人粗条和31519伤害/光束排除。中下友军血条受伤害字遮挡，未凭模型补绿色位置。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "3-2",
+        "evidence": "顶部HUD可直接读 3-2"
+      },
+      "gold": {
+        "status": "known",
+        "value": 50,
+        "evidence": "底部经济栏可直接读 50"
+      },
+      "level": {
+        "status": "known",
+        "value": 6,
+        "evidence": "底部经济栏可直接读 6"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 6,
+        "evidence": "六根橙色血槽含中上残血+白盾、右中两召唤物；上中绿条、左中绿条、本人粗条和31519伤害/光束排除。中下友军血条受伤害字遮挡，未凭模型补绿色位置。",
+        "positions": [
+          [
+            0.55092,
+            0.10739
+          ],
+          [
+            0.60053,
+            0.12617
+          ],
+          [
+            0.66328,
+            0.098
+          ],
+          [
+            0.52649,
+            0.25176
+          ],
+          [
+            0.58549,
+            0.28345
+          ],
+          [
+            0.64299,
+            0.25822
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.49568,
+            0.21538
+          ],
+          [
+            0.46712,
+            0.28756
+          ],
+          [
+            0.49568,
+            0.31221
+          ],
+          [
+            0.33033,
+            0.52934
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "六根橙色血槽含中上残血+白盾、右中两召唤物；上中绿条、左中绿条、本人粗条和31519伤害/光束排除。中下友军血条受伤害字遮挡，未凭模型补绿色位置。"
+      }
+    },
+    {
+      "_file": "00541.jpg",
+      "sha256": "70fec501a2c54172be8e8c76f8a8ed25d6d8140393c299b1a979ebb84a6497b7",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "两后排+三前排窄橙色血槽共5；顶部无血条后备角色不计，6根绿色血槽、5级小小英雄粗条和右侧升星提示排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "3-3",
+        "evidence": "顶部HUD可直接读 3-3"
+      },
+      "gold": {
+        "status": "known",
+        "value": 59,
+        "evidence": "底部经济栏可直接读 59"
+      },
+      "level": {
+        "status": "known",
+        "value": 6,
+        "evidence": "底部经济栏可直接读 6"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 5,
+        "evidence": "两后排+三前排窄橙色血槽共5；顶部无血条后备角色不计，6根绿色血槽、5级小小英雄粗条和右侧升星提示排除。",
+        "positions": [
+          [
+            0.33935,
+            0.11209
+          ],
+          [
+            0.65351,
+            0.09859
+          ],
+          [
+            0.46825,
+            0.26115
+          ],
+          [
+            0.52574,
+            0.2635
+          ],
+          [
+            0.58587,
+            0.277
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.4953,
+            0.31221
+          ],
+          [
+            0.43442,
+            0.34566
+          ],
+          [
+            0.55505,
+            0.35153
+          ],
+          [
+            0.61706,
+            0.33216
+          ],
+          [
+            0.33033,
+            0.52934
+          ],
+          [
+            0.39759,
+            0.5446
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "两后排+三前排窄橙色血槽共5；顶部无血条后备角色不计，6根绿色血槽、5级小小英雄粗条和右侧升星提示排除。"
+      }
+    },
+    {
+      "_file": "00549.jpg",
+      "sha256": "bf08c4ed07aadba0356b097351a57fcd460d51bcc167c87f8d6f79a4cd6804ca",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "同5根橙色血槽，左中/右中是极低残血，仍见橙芯；绿色6根、147伤害字和激光不计。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "3-3",
+        "evidence": "顶部HUD可直接读 3-3"
+      },
+      "gold": {
+        "status": "known",
+        "value": 59,
+        "evidence": "底部经济栏可直接读 59"
+      },
+      "level": {
+        "status": "known",
+        "value": 6,
+        "evidence": "底部经济栏可直接读 6"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 5,
+        "evidence": "同5根橙色血槽，左中/右中是极低残血，仍见橙芯；绿色6根、147伤害字和激光不计。",
+        "positions": [
+          [
+            0.33935,
+            0.11209
+          ],
+          [
+            0.65351,
+            0.09859
+          ],
+          [
+            0.46825,
+            0.26115
+          ],
+          [
+            0.52574,
+            0.2635
+          ],
+          [
+            0.58587,
+            0.277
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.4953,
+            0.31221
+          ],
+          [
+            0.43442,
+            0.34566
+          ],
+          [
+            0.55505,
+            0.35153
+          ],
+          [
+            0.61706,
+            0.33216
+          ],
+          [
+            0.33033,
+            0.52934
+          ],
+          [
+            0.39759,
+            0.5446
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "同5根橙色血槽，左中/右中是极低残血，仍见橙芯；绿色6根、147伤害字和激光不计。"
+      }
+    },
+    {
+      "_file": "00647.jpg",
+      "sha256": "27d769024c66dd06a12a4b9e939c3cb1c7637b3fd32a1af7516f93d0b5e38f37",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "7根橙色窄血条；绿色7根、右上7级粗名牌、顶部无条站立备战角色和125/38/37伤害字排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "3-5",
+        "evidence": "顶部HUD可直接读 3-5"
+      },
+      "gold": {
+        "status": "known",
+        "value": 52,
+        "evidence": "底部经济栏可直接读 52"
+      },
+      "level": {
+        "status": "known",
+        "value": 7,
+        "evidence": "底部经济栏可直接读 7"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 7,
+        "evidence": "7根橙色窄血条；绿色7根、右上7级粗名牌、顶部无条站立备战角色和125/38/37伤害字排除。",
+        "positions": [
+          [
+            0.65013,
+            0.12207
+          ],
+          [
+            0.55318,
+            0.21831
+          ],
+          [
+            0.60654,
+            0.22124
+          ],
+          [
+            0.44119,
+            0.24354
+          ],
+          [
+            0.46825,
+            0.27993
+          ],
+          [
+            0.52649,
+            0.26585
+          ],
+          [
+            0.63698,
+            0.30927
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.41413,
+            0.29577
+          ],
+          [
+            0.49568,
+            0.31279
+          ],
+          [
+            0.43968,
+            0.34507
+          ],
+          [
+            0.55769,
+            0.35094
+          ],
+          [
+            0.58211,
+            0.27641
+          ],
+          [
+            0.33033,
+            0.52934
+          ],
+          [
+            0.39759,
+            0.5446
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "7根橙色窄血条；绿色7根、右上7级粗名牌、顶部无条站立备战角色和125/38/37伤害字排除。"
+      }
+    },
+    {
+      "_file": "00659.jpg",
+      "sha256": "1e9c7bd176837d75d95d4e7b058c1c58794153414e4996ef9af813dc8c923275",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "可见敌方5根，其中左侧只残橙芯；中央1231/336血条被125/58字遮挡，归属不从文字猜测，另列uncertain，不纳入敌方已知位置。其他绿色6根、粗名牌及紫色光柱排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "3-5",
+        "evidence": "顶部HUD可直接读 3-5"
+      },
+      "gold": {
+        "status": "known",
+        "value": 52,
+        "evidence": "底部经济栏可直接读 52"
+      },
+      "level": {
+        "status": "known",
+        "value": 7,
+        "evidence": "底部经济栏可直接读 7"
+      },
+      "enemy": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "可见敌方5根，其中左侧只残橙芯；中央1231/336血条被125/58字遮挡，归属不从文字猜测，另列uncertain，不纳入敌方已知位置。其他绿色6根、粗名牌及紫色光柱排除。",
+        "positions": [
+          [
+            0.65013,
+            0.12207
+          ],
+          [
+            0.55318,
+            0.21831
+          ],
+          [
+            0.60654,
+            0.22124
+          ],
+          [
+            0.44119,
+            0.24354
+          ],
+          [
+            0.63698,
+            0.30927
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.41413,
+            0.29577
+          ],
+          [
+            0.46712,
+            0.28756
+          ],
+          [
+            0.52537,
+            0.25528
+          ],
+          [
+            0.61669,
+            0.35094
+          ],
+          [
+            0.33033,
+            0.52934
+          ],
+          [
+            0.39759,
+            0.5446
+          ]
+        ],
+        "uncertain_positions": [
+          [
+            0.58211,
+            0.27641
+          ]
+        ],
+        "exclusions": "可见敌方5根，其中左侧只残橙芯；中央1231/336血条被125/58字遮挡，归属不从文字猜测，另列uncertain，不纳入敌方已知位置。其他绿色6根、粗名牌及紫色光柱排除。"
+      }
+    },
+    {
+      "_file": "00875.jpg",
+      "sha256": "54673b696b1385499d45f6e555e3d3869555dcccc17ee9e7af32ea72018c627d",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "后排4根、前排2根橙色血槽共6；绿色7根、最右上粗名牌和50/34伤害字排除。中下绿条被50字部分遮挡但右侧绿芯可见。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "4-1",
+        "evidence": "顶部HUD可直接读 4-1"
+      },
+      "gold": {
+        "status": "known",
+        "value": 60,
+        "evidence": "底部经济栏可直接读 60"
+      },
+      "level": {
+        "status": "known",
+        "value": 7,
+        "evidence": "底部经济栏可直接读 7"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 6,
+        "evidence": "后排4根、前排2根橙色血槽共6；绿色7根、最右上粗名牌和50/34伤害字排除。中下绿条被50字部分遮挡但右侧绿芯可见。",
+        "positions": [
+          [
+            0.46637,
+            0.10857
+          ],
+          [
+            0.49831,
+            0.14378
+          ],
+          [
+            0.54904,
+            0.14378
+          ],
+          [
+            0.60241,
+            0.11326
+          ],
+          [
+            0.46975,
+            0.2811
+          ],
+          [
+            0.52499,
+            0.26995
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.41413,
+            0.29519
+          ],
+          [
+            0.49568,
+            0.31221
+          ],
+          [
+            0.43968,
+            0.34507
+          ],
+          [
+            0.55769,
+            0.35094
+          ],
+          [
+            0.58211,
+            0.27641
+          ],
+          [
+            0.63923,
+            0.2588
+          ],
+          [
+            0.33033,
+            0.55927
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "后排4根、前排2根橙色血槽共6；绿色7根、最右上粗名牌和50/34伤害字排除。中下绿条被50字部分遮挡但右侧绿芯可见。"
+      }
+    },
+    {
+      "_file": "00887.jpg",
+      "sha256": "be7058f3c8b84309540961c5eb52427124a67e0675fac39f42320fa88cdef125",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "剩4根橙条，后排中两根和中下均残血；绿色5根、暴击418/468/651/617文字、右上死去无条角色不计。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "4-1",
+        "evidence": "顶部HUD可直接读 4-1"
+      },
+      "gold": {
+        "status": "known",
+        "value": 60,
+        "evidence": "底部经济栏可直接读 60"
+      },
+      "level": {
+        "status": "known",
+        "value": 7,
+        "evidence": "底部经济栏可直接读 7"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 4,
+        "evidence": "剩4根橙条，后排中两根和中下均残血；绿色5根、暴击418/468/651/617文字、右上死去无条角色不计。",
+        "positions": [
+          [
+            0.44419,
+            0.09859
+          ],
+          [
+            0.49831,
+            0.14378
+          ],
+          [
+            0.54904,
+            0.14378
+          ],
+          [
+            0.46975,
+            0.2811
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.63322,
+            0.15962
+          ],
+          [
+            0.4953,
+            0.24472
+          ],
+          [
+            0.52424,
+            0.27582
+          ],
+          [
+            0.4953,
+            0.31221
+          ],
+          [
+            0.33033,
+            0.55927
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "剩4根橙条，后排中两根和中下均残血；绿色5根、暴击418/468/651/617文字、右上死去无条角色不计。"
+      }
+    },
+    {
+      "_file": "00912.jpg",
+      "sha256": "8b5509a309782679b9270863f04ba37a6e897331ed74db9ffb88f269879bd55a",
+      "opponent_audit": false,
+      "phase": {
+        "status": "known",
+        "value": "augment",
+        "evidence": "强化选择/选秀画面遮挡经济栏，金币等级不可直接读。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "4-2",
+        "evidence": "顶部HUD可直接读 4-2"
+      },
+      "gold": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "强化选择/选秀画面遮挡经济栏，金币等级不可直接读。"
+      },
+      "level": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "强化选择/选秀画面遮挡经济栏，金币等级不可直接读。"
+      }
+    },
+    {
+      "_file": "00927.jpg",
+      "sha256": "d76b9bb25a8755ff8e69bfe529a6bf6c4b477c9ef02ce3def910843fd99a7001",
+      "opponent_audit": false,
+      "phase": {
+        "status": "known",
+        "value": "augment",
+        "evidence": "强化选择/选秀画面遮挡经济栏，金币等级不可直接读。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "4-2",
+        "evidence": "顶部HUD可直接读 4-2"
+      },
+      "gold": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "强化选择/选秀画面遮挡经济栏，金币等级不可直接读。"
+      },
+      "level": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "强化选择/选秀画面遮挡经济栏，金币等级不可直接读。"
+      }
+    },
+    {
+      "_file": "01003.jpg",
+      "sha256": "b62860c4bf7268ede35e37db3a633ffa07db67ff8dc07ebf7c9c3b2aef0589fa",
+      "opponent_audit": false,
+      "phase": {
+        "status": "known",
+        "value": "planning",
+        "evidence": "己方棋盘准备中，顶部回合与底部金币/等级可直接读。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "4-3",
+        "evidence": "顶部HUD可直接读 4-3"
+      },
+      "gold": {
+        "status": "known",
+        "value": 55,
+        "evidence": "底部经济栏可直接读 55"
+      },
+      "level": {
+        "status": "known",
+        "value": 8,
+        "evidence": "底部经济栏可直接读 8"
+      }
+    },
+    {
+      "_file": "01034.jpg",
+      "sha256": "b057632fcc047ca18c7cb49ed560991a23f1a53a30fbf597df64ab66adc19679",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "后排2根+前排4根窄橙条共6，部分含白盾但橙芯可辨；8根绿色条、6级小小英雄粗条和22/40伤害字排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "4-3",
+        "evidence": "顶部HUD可直接读 4-3"
+      },
+      "gold": {
+        "status": "known",
+        "value": 55,
+        "evidence": "底部经济栏可直接读 55"
+      },
+      "level": {
+        "status": "known",
+        "value": 8,
+        "evidence": "底部经济栏可直接读 8"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 6,
+        "evidence": "后排2根+前排4根窄橙条共6，部分含白盾但橙芯可辨；8根绿色条、6级小小英雄粗条和22/40伤害字排除。",
+        "positions": [
+          [
+            0.60128,
+            0.12969
+          ],
+          [
+            0.66328,
+            0.098
+          ],
+          [
+            0.469,
+            0.27289
+          ],
+          [
+            0.52537,
+            0.26408
+          ],
+          [
+            0.58512,
+            0.27876
+          ],
+          [
+            0.69635,
+            0.27641
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.41413,
+            0.29577
+          ],
+          [
+            0.49568,
+            0.31221
+          ],
+          [
+            0.43968,
+            0.34507
+          ],
+          [
+            0.55769,
+            0.35094
+          ],
+          [
+            0.59,
+            0.37852
+          ],
+          [
+            0.64299,
+            0.26408
+          ],
+          [
+            0.67681,
+            0.33157
+          ],
+          [
+            0.33033,
+            0.55927
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "后排2根+前排4根窄橙条共6，部分含白盾但橙芯可辨；8根绿色条、6级小小英雄粗条和22/40伤害字排除。"
+      }
+    },
+    {
+      "_file": "01040.jpg",
+      "sha256": "a482865d606b16f7cf2f035797a1a92f0a69aba8c0ef3c227f94fe5933379fe9",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "同6根橙条，前排已残血；8根绿色条含左中白盾覆盖，火圈/184/174/376等文字和粗名牌排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "4-3",
+        "evidence": "顶部HUD可直接读 4-3"
+      },
+      "gold": {
+        "status": "known",
+        "value": 55,
+        "evidence": "底部经济栏可直接读 55"
+      },
+      "level": {
+        "status": "known",
+        "value": 8,
+        "evidence": "底部经济栏可直接读 8"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 6,
+        "evidence": "同6根橙条，前排已残血；8根绿色条含左中白盾覆盖，火圈/184/174/376等文字和粗名牌排除。",
+        "positions": [
+          [
+            0.60128,
+            0.12969
+          ],
+          [
+            0.66328,
+            0.098
+          ],
+          [
+            0.469,
+            0.27289
+          ],
+          [
+            0.52537,
+            0.26408
+          ],
+          [
+            0.58512,
+            0.27876
+          ],
+          [
+            0.69635,
+            0.27641
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.41413,
+            0.29577
+          ],
+          [
+            0.49568,
+            0.31221
+          ],
+          [
+            0.43968,
+            0.34507
+          ],
+          [
+            0.55769,
+            0.35094
+          ],
+          [
+            0.59,
+            0.37852
+          ],
+          [
+            0.64299,
+            0.26408
+          ],
+          [
+            0.67681,
+            0.33157
+          ],
+          [
+            0.33033,
+            0.55927
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "同6根橙条，前排已残血；8根绿色条含左中白盾覆盖，火圈/184/174/376等文字和粗名牌排除。"
+      }
+    },
+    {
+      "_file": "01069.jpg",
+      "sha256": "495d4f6393567a0da8f33393efb230363ecd6cb43093dd1f9dbcd9069dbbac29",
+      "opponent_audit": false,
+      "phase": {
+        "status": "known",
+        "value": "carousel",
+        "evidence": "强化选择/选秀画面遮挡经济栏，金币等级不可直接读。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "4-4",
+        "evidence": "顶部HUD可直接读 4-4"
+      },
+      "gold": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "强化选择/选秀画面遮挡经济栏，金币等级不可直接读。"
+      },
+      "level": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "强化选择/选秀画面遮挡经济栏，金币等级不可直接读。"
+      }
+    },
+    {
+      "_file": "01352.jpg",
+      "sha256": "d49351feb235bac91e9d4523e45b1f03203db0a35c9f1a746bd6f51325d3ae3e",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "顶部2根+前排5根橙色槽共7；8根绿色条、最右粗小小英雄条和29/51/36伤害字排除，前排一根有白盾。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "5-1",
+        "evidence": "顶部HUD可直接读 5-1"
+      },
+      "gold": {
+        "status": "known",
+        "value": 58,
+        "evidence": "底部经济栏可直接读 58"
+      },
+      "level": {
+        "status": "known",
+        "value": 8,
+        "evidence": "底部经济栏可直接读 8"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 7,
+        "evidence": "顶部2根+前排5根橙色槽共7；8根绿色条、最右粗小小英雄条和29/51/36伤害字排除，前排一根有白盾。",
+        "positions": [
+          [
+            0.60353,
+            0.13498
+          ],
+          [
+            0.67118,
+            0.098
+          ],
+          [
+            0.36377,
+            0.30458
+          ],
+          [
+            0.47764,
+            0.27817
+          ],
+          [
+            0.53401,
+            0.26702
+          ],
+          [
+            0.59301,
+            0.28286
+          ],
+          [
+            0.70575,
+            0.28052
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.32807,
+            0.348
+          ],
+          [
+            0.39008,
+            0.34566
+          ],
+          [
+            0.44946,
+            0.36033
+          ],
+          [
+            0.50695,
+            0.32981
+          ],
+          [
+            0.56407,
+            0.35563
+          ],
+          [
+            0.62796,
+            0.32453
+          ],
+          [
+            0.68959,
+            0.29871
+          ],
+          [
+            0.74446,
+            0.52113
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "顶部2根+前排5根橙色槽共7；8根绿色条、最右粗小小英雄条和29/51/36伤害字排除，前排一根有白盾。"
+      }
+    },
+    {
+      "_file": "01360.jpg",
+      "sha256": "932dd40724760d4756c7834731e6d48baa27c457b5016d13e4393c43f3346c1a",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "剩5根橙条，左前仅极低残血；8根绿色条及火圈、48/52/72文字不计，右前上一帧橙条已消失，不凭历史补。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "5-1",
+        "evidence": "顶部HUD可直接读 5-1"
+      },
+      "gold": {
+        "status": "known",
+        "value": 53,
+        "evidence": "底部经济栏可直接读 53"
+      },
+      "level": {
+        "status": "known",
+        "value": 8,
+        "evidence": "底部经济栏可直接读 8"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 5,
+        "evidence": "剩5根橙条，左前仅极低残血；8根绿色条及火圈、48/52/72文字不计，右前上一帧橙条已消失，不凭历史补。",
+        "positions": [
+          [
+            0.60353,
+            0.13498
+          ],
+          [
+            0.67118,
+            0.098
+          ],
+          [
+            0.47764,
+            0.27817
+          ],
+          [
+            0.53401,
+            0.26702
+          ],
+          [
+            0.59301,
+            0.28286
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.44908,
+            0.23944
+          ],
+          [
+            0.42127,
+            0.28991
+          ],
+          [
+            0.44946,
+            0.36033
+          ],
+          [
+            0.50695,
+            0.32981
+          ],
+          [
+            0.56407,
+            0.35563
+          ],
+          [
+            0.62796,
+            0.32453
+          ],
+          [
+            0.68959,
+            0.29871
+          ],
+          [
+            0.74446,
+            0.52113
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "剩5根橙条，左前仅极低残血；8根绿色条及火圈、48/52/72文字不计，右前上一帧橙条已消失，不凭历史补。"
+      }
+    },
+    {
+      "_file": "01814.jpg",
+      "sha256": "6ffa78493bd763a46ee4153d28e1a5cbdc03a39d7b298a852fe6b37c01f46189",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "可见12根窄橙条，含3个树木/植物召唤物；9根绿色条含盾，粗小小英雄条、光束、168/57等文字和无血条备战角色排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "6-1",
+        "evidence": "顶部HUD可直接读 6-1"
+      },
+      "gold": {
+        "status": "known",
+        "value": 56,
+        "evidence": "底部经济栏可直接读 56"
+      },
+      "level": {
+        "status": "known",
+        "value": 9,
+        "evidence": "底部经济栏可直接读 9"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 12,
+        "evidence": "可见12根窄橙条，含3个树木/植物召唤物；9根绿色条含盾，粗小小英雄条、光束、168/57等文字和无血条备战角色排除。",
+        "positions": [
+          [
+            0.36377,
+            0.14613
+          ],
+          [
+            0.4021,
+            0.11444
+          ],
+          [
+            0.45284,
+            0.09859
+          ],
+          [
+            0.42503,
+            0.15669
+          ],
+          [
+            0.5062,
+            0.12969
+          ],
+          [
+            0.66366,
+            0.11268
+          ],
+          [
+            0.41037,
+            0.24824
+          ],
+          [
+            0.47802,
+            0.26056
+          ],
+          [
+            0.53326,
+            0.26937
+          ],
+          [
+            0.59301,
+            0.2588
+          ],
+          [
+            0.65051,
+            0.26056
+          ],
+          [
+            0.3634,
+            0.29108
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.3277,
+            0.34683
+          ],
+          [
+            0.3897,
+            0.34566
+          ],
+          [
+            0.44983,
+            0.34742
+          ],
+          [
+            0.50695,
+            0.32453
+          ],
+          [
+            0.56821,
+            0.29636
+          ],
+          [
+            0.62495,
+            0.33744
+          ],
+          [
+            0.57197,
+            0.44014
+          ],
+          [
+            0.40887,
+            0.54108
+          ],
+          [
+            0.74446,
+            0.52113
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "可见12根窄橙条，含3个树木/植物召唤物；9根绿色条含盾，粗小小英雄条、光束、168/57等文字和无血条备战角色排除。"
+      }
+    },
+    {
+      "_file": "01825.jpg",
+      "sha256": "dd402ac79a97b43b010204fe506b72221836316192fa6cd7f1e169abd21391a8",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "10根完整可定中心橙条。中央两根绿色前有另一橙色残片，完整槽及中心被覆盖，01825-central-detail.png可见；不猜被遮条中心/完整总数，enemy数量unknown。绿色5根、195/132/142文字及粗名牌排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "6-1",
+        "evidence": "顶部HUD可直接读 6-1"
+      },
+      "gold": {
+        "status": "known",
+        "value": 56,
+        "evidence": "底部经济栏可直接读 56"
+      },
+      "level": {
+        "status": "known",
+        "value": 9,
+        "evidence": "底部经济栏可直接读 9"
+      },
+      "enemy": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "10根完整可定中心橙条。中央两根绿色前有另一橙色残片，完整槽及中心被覆盖，01825-central-detail.png可见；不猜被遮条中心/完整总数，enemy数量unknown。绿色5根、195/132/142文字及粗名牌排除。",
+        "positions": [
+          [
+            0.36377,
+            0.11268
+          ],
+          [
+            0.4021,
+            0.09859
+          ],
+          [
+            0.45284,
+            0.09859
+          ],
+          [
+            0.42503,
+            0.13498
+          ],
+          [
+            0.50282,
+            0.10505
+          ],
+          [
+            0.66366,
+            0.09859
+          ],
+          [
+            0.41037,
+            0.2142
+          ],
+          [
+            0.47802,
+            0.24648
+          ],
+          [
+            0.3634,
+            0.28228
+          ],
+          [
+            0.59301,
+            0.24589
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.3277,
+            0.34683
+          ],
+          [
+            0.50695,
+            0.32453
+          ],
+          [
+            0.56821,
+            0.29636
+          ],
+          [
+            0.62495,
+            0.33744
+          ],
+          [
+            0.40887,
+            0.54108
+          ]
+        ],
+        "uncertain_positions": [
+          [
+            0.60428,
+            0.33333
+          ]
+        ],
+        "exclusions": "10根完整可定中心橙条。中央两根绿色前有另一橙色残片，完整槽及中心被覆盖，01825-central-detail.png可见；不猜被遮条中心/完整总数，enemy数量unknown。绿色5根、195/132/142文字及粗名牌排除。"
+      }
+    },
+    {
+      "_file": "01939.jpg",
+      "sha256": "15745045b3bc07c3d9b422016f275a3bff444b0997cc7b989165342e4768d52a",
+      "opponent_audit": false,
+      "phase": {
+        "status": "known",
+        "value": "planning",
+        "evidence": "己方棋盘准备中，顶部回合与底部金币/等级可直接读。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "6-3",
+        "evidence": "顶部HUD可直接读 6-3"
+      },
+      "gold": {
+        "status": "known",
+        "value": 48,
+        "evidence": "底部经济栏可直接读 48"
+      },
+      "level": {
+        "status": "known",
+        "value": 9,
+        "evidence": "底部经济栏可直接读 9"
+      }
+    },
+    {
+      "_file": "01971.jpg",
+      "sha256": "071d271c61390927f13e6710597213ea93194ff0437b8133f1d256e53d51732c",
+      "opponent_audit": true,
+      "phase": {
+        "status": "known",
+        "value": "combat",
+        "evidence": "12根窄橙条含树木/植物召唤物，左中620/288被左侧海克斯图标遮一端但橙芯/槽可辨。9根绿色条、绿色光束、黄色瞄准圈、粗9级名牌及伤害数字排除。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "6-3",
+        "evidence": "顶部HUD可直接读 6-3"
+      },
+      "gold": {
+        "status": "known",
+        "value": 48,
+        "evidence": "底部经济栏可直接读 48"
+      },
+      "level": {
+        "status": "known",
+        "value": 9,
+        "evidence": "底部经济栏可直接读 9"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 12,
+        "evidence": "12根窄橙条含树木/植物召唤物，左中620/288被左侧海克斯图标遮一端但橙芯/槽可辨。9根绿色条、绿色光束、黄色瞄准圈、粗9级名牌及伤害数字排除。",
+        "positions": [
+          [
+            0.36377,
+            0.14613
+          ],
+          [
+            0.4021,
+            0.11444
+          ],
+          [
+            0.45284,
+            0.09859
+          ],
+          [
+            0.42503,
+            0.15669
+          ],
+          [
+            0.5062,
+            0.12969
+          ],
+          [
+            0.66366,
+            0.11268
+          ],
+          [
+            0.3525,
+            0.24824
+          ],
+          [
+            0.41037,
+            0.24824
+          ],
+          [
+            0.47802,
+            0.26056
+          ],
+          [
+            0.53326,
+            0.26937
+          ],
+          [
+            0.59301,
+            0.2588
+          ],
+          [
+            0.64525,
+            0.29049
+          ]
+        ],
+        "friendly_positions": [
+          [
+            0.33145,
+            0.33803
+          ],
+          [
+            0.39008,
+            0.34566
+          ],
+          [
+            0.44983,
+            0.33744
+          ],
+          [
+            0.50695,
+            0.32453
+          ],
+          [
+            0.56821,
+            0.2811
+          ],
+          [
+            0.68395,
+            0.34683
+          ],
+          [
+            0.57197,
+            0.44014
+          ],
+          [
+            0.33484,
+            0.50822
+          ],
+          [
+            0.67719,
+            0.53052
+          ]
+        ],
+        "uncertain_positions": [],
+        "exclusions": "12根窄橙条含树木/植物召唤物，左中620/288被左侧海克斯图标遮一端但橙芯/槽可辨。9根绿色条、绿色光束、黄色瞄准圈、粗9级名牌及伤害数字排除。"
+      }
+    },
+    {
+      "_file": "01992.jpg",
+      "sha256": "0596cd3dc84cb4ebe26f9e67d79c95035c5fdbc05b088522cf4b0df471f0d1a1",
+      "opponent_audit": true,
+      "phase": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "棋盘单位已清空，烟花庆祝且右侧对手全淘汰，但正式胜利横幅尚未出现；不猜产品应属combat还是结算过渡，phase unknown。可见0个敌方窄血条，右上烟花与左下小小英雄绿粗条不计。"
+      },
+      "stage": {
+        "status": "known",
+        "value": "6-3",
+        "evidence": "顶部HUD可直接读 6-3"
+      },
+      "gold": {
+        "status": "known",
+        "value": 49,
+        "evidence": "底部经济栏可直接读 49"
+      },
+      "level": {
+        "status": "known",
+        "value": 9,
+        "evidence": "底部经济栏可直接读 9"
+      },
+      "enemy": {
+        "status": "known",
+        "value": 0,
+        "evidence": "棋盘单位已清空，烟花庆祝且右侧对手全淘汰，但正式胜利横幅尚未出现；不猜产品应属combat还是结算过渡，phase unknown。可见0个敌方窄血条，右上烟花与左下小小英雄绿粗条不计。",
+        "positions": [],
+        "friendly_positions": [],
+        "uncertain_positions": [],
+        "exclusions": "棋盘单位已清空，烟花庆祝且右侧对手全淘汰，但正式胜利横幅尚未出现；不猜产品应属combat还是结算过渡，phase unknown。可见0个敌方窄血条，右上烟花与左下小小英雄绿粗条不计。"
+      }
+    },
+    {
+      "_file": "02019.jpg",
+      "sha256": "f1d0fbaaf8ee7f2e0906b17a398a5b4e3d264c885c19059f41b6e5de7086efb3",
+      "opponent_audit": false,
+      "phase": {
+        "status": "known",
+        "value": "ended",
+        "evidence": "中央明确显示“胜利”与“现在退出”，对局已经结束；阶段/经济/等级HUD不可见，不能沿用旧日志6-3。"
+      },
+      "stage": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "中央明确显示“胜利”与“现在退出”，对局已经结束；阶段/经济/等级HUD不可见，不能沿用旧日志6-3。"
+      },
+      "gold": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "中央明确显示“胜利”与“现在退出”，对局已经结束；阶段/经济/等级HUD不可见，不能沿用旧日志6-3。"
+      },
+      "level": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "中央明确显示“胜利”与“现在退出”，对局已经结束；阶段/经济/等级HUD不可见，不能沿用旧日志6-3。"
+      }
+    },
+    {
+      "_file": "02020.jpg",
+      "sha256": "d71a76217fccb757d93ffee30b625bd293984136ad866ceca96b7ef4c74e267d",
+      "opponent_audit": false,
+      "phase": {
+        "status": "known",
+        "value": "ended",
+        "evidence": "中央明确显示“胜利”与“现在退出”，对局已经结束；阶段/经济/等级HUD不可见，不能沿用旧日志6-3。"
+      },
+      "stage": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "中央明确显示“胜利”与“现在退出”，对局已经结束；阶段/经济/等级HUD不可见，不能沿用旧日志6-3。"
+      },
+      "gold": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "中央明确显示“胜利”与“现在退出”，对局已经结束；阶段/经济/等级HUD不可见，不能沿用旧日志6-3。"
+      },
+      "level": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "中央明确显示“胜利”与“现在退出”，对局已经结束；阶段/经济/等级HUD不可见，不能沿用旧日志6-3。"
+      }
+    },
+    {
+      "_file": "02021.jpg",
+      "sha256": "a3bb6cbcfa65a4224cf6c1a4809fe923a424af1a83e1ecf6c68953bdf6de87ac",
+      "opponent_audit": false,
+      "phase": {
+        "status": "known",
+        "value": "ended",
+        "evidence": "中央明确显示“胜利”与“现在退出”，对局已经结束；阶段/经济/等级HUD不可见，不能沿用旧日志6-3。"
+      },
+      "stage": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "中央明确显示“胜利”与“现在退出”，对局已经结束；阶段/经济/等级HUD不可见，不能沿用旧日志6-3。"
+      },
+      "gold": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "中央明确显示“胜利”与“现在退出”，对局已经结束；阶段/经济/等级HUD不可见，不能沿用旧日志6-3。"
+      },
+      "level": {
+        "status": "unknown",
+        "value": null,
+        "evidence": "中央明确显示“胜利”与“现在退出”，对局已经结束；阶段/经济/等级HUD不可见，不能沿用旧日志6-3。"
+      }
+    }
+  ]
+}

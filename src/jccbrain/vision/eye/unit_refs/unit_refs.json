@@ -1,0 +1,426 @@
+{
+  "version": 1,
+  "season": "18_S19",
+  "feature": "VNGenerateImageFeaturePrintRequest / feature_print",
+  "notes": "信息面板确认身份；manual-bench-anchor 为战斗中无血条的备战席人工锚点（宽0.044W，裁剪顶0.65H），其余使用检测血条。排除0006非英雄、0011/0024遮挡。独立旧样本不参与生成。",
+  "entries": [
+    {
+      "name": "凯特琳",
+      "mode": "manual-bench-anchor",
+      "frame": "heroes/0001.png",
+      "bar": [
+        448,
+        516,
+        648,
+        652,
+        0.306,
+        0.6436327739387957
+      ],
+      "window": [
+        1576,
+        1013
+      ],
+      "key": "ref_00",
+      "sha256": "91d3cf0a381a6847ea374d76159bde41d7dfb80237acef7dde6270715ccdd3b6"
+    },
+    {
+      "name": "峡谷迅捷蟹",
+      "mode": "manual-bench-anchor",
+      "frame": "heroes/0002.png",
+      "bar": [
+        547,
+        615,
+        648,
+        652,
+        0.369,
+        0.6436327739387957
+      ],
+      "window": [
+        1576,
+        1013
+      ],
+      "key": "ref_01",
+      "sha256": "48454334938dae059e38f3a5ec34f8f1aefb6982095618cf5bb7d3479dc67dff"
+    },
+    {
+      "name": "绯红树怪",
+      "mode": "manual-bench-anchor",
+      "frame": "heroes/0003.png",
+      "bar": [
+        645,
+        713,
+        648,
+        652,
+        0.431,
+        0.6436327739387957
+      ],
+      "window": [
+        1576,
+        1013
+      ],
+      "key": "ref_02",
+      "sha256": "aced99b57572e8b20e3e3c8f4d47cf985614277469e36a60426e71c142ba717c"
+    },
+    {
+      "name": "维迦",
+      "mode": "manual-bench-anchor",
+      "frame": "heroes/0004.png",
+      "bar": [
+        744,
+        812,
+        648,
+        652,
+        0.494,
+        0.6436327739387957
+      ],
+      "window": [
+        1576,
+        1013
+      ],
+      "key": "ref_03",
+      "sha256": "240319cb39895b15ac81804025fda1817c793a7e24cf04c72911fce1ca125dfb"
+    },
+    {
+      "name": "乐芙兰",
+      "mode": "detected",
+      "frame": "heroes/0005.png",
+      "bar": [
+        756,
+        801,
+        453,
+        458,
+        0.49397208121827413,
+        0.44965449160908194
+      ],
+      "window": [
+        1576,
+        1013
+      ],
+      "key": "ref_04",
+      "sha256": "009c41ad4e97b49da0c6d54de57660c06ed85f268bdc7bcc0ac920a2d5b8d5f1"
+    },
+    {
+      "name": "凯特琳",
+      "mode": "manual-bench-anchor",
+      "frame": "heroes/0007.png",
+      "bar": [
+        448,
+        516,
+        648,
+        652,
+        0.306,
+        0.6436327739387957
+      ],
+      "window": [
+        1576,
+        1013
+      ],
+      "key": "ref_05",
+      "sha256": "2c60e18d4f125b66d768167f8b999f5c53eb3d2b782ac1fb2fb155b7779030d9"
+    },
+    {
+      "name": "乐芙兰",
+      "mode": "manual-bench-anchor",
+      "frame": "heroes/0008.png",
+      "bar": [
+        645,
+        713,
+        648,
+        652,
+        0.431,
+        0.6436327739387957
+      ],
+      "window": [
+        1576,
+        1013
+      ],
+      "key": "ref_06",
+      "sha256": "fa2ba67caccf1095776479b9e86bef82a5fd346ce9daeee6f565fbe15f2406f5"
+    },
+    {
+      "name": "维迦",
+      "mode": "manual-bench-anchor",
+      "frame": "heroes/0009.png",
+      "bar": [
+        350,
+        418,
+        648,
+        652,
+        0.244,
+        0.6436327739387957
+      ],
+      "window": [
+        1576,
+        1013
+      ],
+      "key": "ref_07",
+      "sha256": "086be4410e09d5c93f789340223fc107170cf5980824bc5b0e0e01ed1b2715f7"
+    },
+    {
+      "name": "绯红树怪",
+      "mode": "manual-bench-anchor",
+      "frame": "heroes/0010.png",
+      "bar": [
+        744,
+        812,
+        648,
+        652,
+        0.494,
+        0.6436327739387957
+      ],
+      "window": [
+        1576,
+        1013
+      ],
+      "key": "ref_08",
+      "sha256": "5b11fc2ac952db15ff19eae3ae3174c4bb990a7f8ae0560838f476b02e3e6a7b"
+    },
+    {
+      "name": "峡谷迅捷蟹",
+      "mode": "detected",
+      "frame": "heroes/0012.png",
+      "bar": [
+        756,
+        815,
+        354,
+        359,
+        0.49841370558375636,
+        0.3519249753208292
+      ],
+      "window": [
+        1576,
+        1013
+      ],
+      "key": "ref_09",
+      "sha256": "aa26e9af5ec6e7d9039a652f8e53058247f1690d3532f8a81c7f65dced7b95b9"
+    },
+    {
+      "name": "绯红树怪",
+      "mode": "detected",
+      "frame": "heroes/0013.png",
+      "bar": [
+        843,
+        903,
+        362,
+        367,
+        0.5539340101522843,
+        0.359822309970385
+      ],
+      "window": [
+        1576,
+        1013
+      ],
+      "key": "ref_10",
+      "sha256": "0bc69f3a48c22cd4bcb759f3e63baa898462d72f8031ff41b94e903ae4d61359"
+    },
+    {
+      "name": "乐芙兰",
+      "mode": "detected",
+      "frame": "heroes/0014.png",
+      "bar": [
+        756,
+        815,
+        453,
+        458,
+        0.49841370558375636,
+        0.44965449160908194
+      ],
+      "window": [
+        1576,
+        1013
+      ],
+      "key": "ref_11",
+      "sha256": "f4f526dbe11d42bf5d058b98d2dcd7b39d09833613a2887260e09ee1477939ac"
+    },
+    {
+      "name": "维迦",
+      "mode": "detected",
+      "frame": "heroes/0015.png",
+      "bar": [
+        807,
+        866,
+        553,
+        558,
+        0.5307741116751269,
+        0.5483711747285291
+      ],
+      "window": [
+        1576,
+        1013
+      ],
+      "key": "ref_12",
+      "sha256": "e553cd86b0298570956c4c4f88df4c467bb8724e873668fe986e68a23454014d"
+    },
+    {
+      "name": "苍蓝雕纹魔像",
+      "mode": "detected",
+      "frame": "heroes/0016.png",
+      "bar": [
+        747,
+        814,
+        365,
+        371,
+        0.4399661781285231,
+        0.323943661971831
+      ],
+      "window": [
+        1774,
+        1136
+      ],
+      "key": "ref_13",
+      "sha256": "4e62673a7210ae2a2fe68a42fa24799b4c3db3dabffd778e52d1db2b5ac4a050"
+    },
+    {
+      "name": "苍蓝哨戒",
+      "mode": "detected",
+      "frame": "heroes/0017.png",
+      "bar": [
+        1270,
+        1337,
+        613,
+        618,
+        0.7347801578354002,
+        0.5418133802816901
+      ],
+      "window": [
+        1774,
+        1136
+      ],
+      "key": "ref_14",
+      "sha256": "a7a07644b46dc10ece0a075bb477bec7b0b49c243a844bfb5ba8bc537c5ea5af"
+    },
+    {
+      "name": "暗影狼",
+      "mode": "detected",
+      "frame": "heroes/0018.png",
+      "bar": [
+        1014,
+        1081,
+        451,
+        456,
+        0.5904735062006764,
+        0.39920774647887325
+      ],
+      "window": [
+        1774,
+        1136
+      ],
+      "key": "ref_15",
+      "sha256": "73f8721539e0238e172c0499f598e8d2b3e36613a2c1e0c95cd736094cb929f0"
+    },
+    {
+      "name": "苍蓝雕纹魔像",
+      "mode": "detected",
+      "frame": "heroes/0019.png",
+      "bar": [
+        747,
+        814,
+        365,
+        371,
+        0.4399661781285231,
+        0.323943661971831
+      ],
+      "window": [
+        1774,
+        1136
+      ],
+      "key": "ref_16",
+      "sha256": "19db0f364e3d0df6e9b963bf48978d7453152679db16b4396f8a4648b5f3212f"
+    },
+    {
+      "name": "苍蓝雕纹魔像",
+      "mode": "detected",
+      "frame": "heroes/0020.png",
+      "bar": [
+        735,
+        803,
+        718,
+        724,
+        0.43348365276211953,
+        0.6346830985915493
+      ],
+      "window": [
+        1774,
+        1136
+      ],
+      "key": "ref_17",
+      "sha256": "d570178a5262ca96a48fab3a39656194618fbda397511d46942421f335d6a5ca"
+    },
+    {
+      "name": "苍蓝哨戒",
+      "mode": "detected",
+      "frame": "heroes/0021.png",
+      "bar": [
+        1270,
+        1337,
+        613,
+        618,
+        0.7347801578354002,
+        0.5418133802816901
+      ],
+      "window": [
+        1774,
+        1136
+      ],
+      "key": "ref_18",
+      "sha256": "94956214f8933c68c5f308aaf87782ba01fa670b0ae6dba21a851326c899be92"
+    },
+    {
+      "name": "暗影狼",
+      "mode": "detected",
+      "frame": "heroes/0022.png",
+      "bar": [
+        1014,
+        1081,
+        451,
+        456,
+        0.5904735062006764,
+        0.39920774647887325
+      ],
+      "window": [
+        1774,
+        1136
+      ],
+      "key": "ref_19",
+      "sha256": "fb9f484232d15db9e22155b08e92496581895288c0949eeee6962bdd13100d6f"
+    },
+    {
+      "name": "苍蓝哨戒",
+      "mode": "detected",
+      "frame": "heroes/0023.png",
+      "bar": [
+        1194,
+        1261,
+        530,
+        536,
+        0.6919391206313416,
+        0.46919014084507044
+      ],
+      "window": [
+        1774,
+        1136
+      ],
+      "key": "ref_20",
+      "sha256": "06866e0bc3aa98b295939918dbfea7c5e715b780c25201f4c4e4a40dab1187d2"
+    },
+    {
+      "name": "凯特琳",
+      "mode": "manual-bench-anchor",
+      "frame": "heroes/0025.png",
+      "bar": [
+        504,
+        581,
+        728,
+        732,
+        0.306,
+        0.6443661971830986
+      ],
+      "window": [
+        1774,
+        1136
+      ],
+      "key": "ref_21",
+      "sha256": "868a92b4f1c003bc0d046f6e2a1905b2eb1aab459d1cb3e72298038b09126efe"
+    }
+  ]
+}

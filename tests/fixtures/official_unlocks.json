@@ -1,0 +1,38 @@
+[
+  {
+    "heroid": 15285,
+    "mission": [
+      {
+        "id": 1528501,
+        "tasktips": "在战斗中登场",
+        "sort": 8,
+        "difficulty": 0,
+        "conditionId": 0,
+        "show": 1,
+        "desc": "在战斗中登场：8独特星级总数的【德玛西亚】;需求达到8级",
+        "heroinfo": "",
+        "equipinfo": "",
+        "equipfull": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/",
+        "herofull": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s19/"
+      }
+    ]
+  },
+  {
+    "heroid": 12400,
+    "mission": [
+      {
+        "id": 1240001,
+        "tasktips": "在战斗中登场",
+        "sort": 39,
+        "difficulty": 0,
+        "conditionId": 0,
+        "show": 1,
+        "desc": "在战斗中登场：配备着1件装备的【佛耶戈】",
+        "heroinfo": "",
+        "equipinfo": "",
+        "equipfull": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/",
+        "herofull": "https://game.gtimg.cn/images/lol/act/jkzlk/mode16s19/"
+      }
+    ]
+  }
+]

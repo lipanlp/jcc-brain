@@ -1,0 +1,123 @@
+.browser-page {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  overflow: hidden;
+}
+.browser-toolbar {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+  padding: var(--space-4) var(--space-5) var(--space-3);
+  border-bottom: 1px solid var(--separator);
+}
+.browser-toolbar .u-search {
+  flex: 1;
+  min-width: 160px;
+}
+.browser-meta {
+  display: flex;
+  gap: var(--space-3);
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  font-size: var(--font-xs);
+  color: var(--secondary);
+}
+.browser-meta .target-lock {
+  margin-left: auto;
+  display: flex;
+  gap: var(--space-2);
+  align-items: center;
+}
+.browser-table {
+  height: 100%;
+}
+.browser-table th,.browser-table td {
+  padding: var(--space-2) var(--space-3);
+}
+.browser-table td {
+  padding-top: var(--space-half);
+  padding-bottom: var(--space-half);
+}
+.inspector-content {
+  padding: var(--space-5);
+}
+.inspector-heading {
+  display: flex;
+  gap: var(--space-2);
+  align-items: center;
+  margin-bottom: var(--space-2);
+}
+.inspector-content h1 {
+  font-size: var(--font-xl);
+  font-weight: 600;
+  letter-spacing: -.3px;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
+}
+.inspector-content h2 {
+  font-size: var(--font-sm);
+  font-weight: 600;
+  margin-bottom: var(--space-3);
+}
+.inspector-content section {
+  margin-top: var(--space-5);
+  padding-top: var(--space-5);
+  border-top: 1px solid var(--separator);
+}
+.inspector-content p {
+  font-size: var(--font-sm);
+  line-height: 1.6;
+}
+.inspector-muted {
+  color: var(--secondary);
+  font-size: var(--font-xs);
+}
+.inspector-chips {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-1) var(--space-2);
+}
+.inspector-actions {
+  display: flex;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+  margin-top: var(--space-4);
+}
+.inspector-prose {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  line-height: 1.6;
+  user-select: text;
+}
+.inspector-subtitle {
+  font-size: var(--font-xs);
+  color: var(--secondary);
+  margin-bottom: var(--space-2);
+}
+.inspector-loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-8);
+  color: var(--secondary);
+}
+.browser-loading {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  color: var(--secondary);
+}
+.clipboard-copy {
+  position: fixed;
+  left: -10000px;
+  top: 0;
+  opacity: 0;
+}

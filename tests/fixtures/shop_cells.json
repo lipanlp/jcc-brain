@@ -1,0 +1,599 @@
+{
+  "decoder": "CoreGraphics",
+  "frames": {
+    "0000.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0000_slot0",
+        "0000_slot1",
+        "0000_slot2",
+        "0000_slot3",
+        "0000_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0000_lock",
+      "locked": false
+    },
+    "0003.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0003_slot0",
+        "0003_slot1",
+        "0003_slot2",
+        "0003_slot3",
+        "0003_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0003_lock",
+      "locked": false
+    },
+    "0006.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0006_slot0",
+        "0006_slot1",
+        "0006_slot2",
+        "0006_slot3",
+        "0006_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0006_lock",
+      "locked": false
+    },
+    "0009.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0009_slot0",
+        "0009_slot1",
+        "0009_slot2",
+        "0009_slot3",
+        "0009_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0009_lock",
+      "locked": false
+    },
+    "0012.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0012_slot0",
+        "0012_slot1",
+        "0012_slot2",
+        "0012_slot3",
+        "0012_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0012_lock",
+      "locked": false
+    },
+    "0015.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0015_slot0",
+        "0015_slot1",
+        "0015_slot2",
+        "0015_slot3",
+        "0015_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0015_lock",
+      "locked": false
+    },
+    "0018.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0018_slot0",
+        "0018_slot1",
+        "0018_slot2",
+        "0018_slot3",
+        "0018_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0018_lock",
+      "locked": false
+    },
+    "0021.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0021_slot0",
+        "0021_slot1",
+        "0021_slot2",
+        "0021_slot3",
+        "0021_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0021_lock",
+      "locked": false
+    },
+    "0024.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0024_slot0",
+        "0024_slot1",
+        "0024_slot2",
+        "0024_slot3",
+        "0024_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0024_lock",
+      "locked": false
+    },
+    "0027.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0027_slot0",
+        "0027_slot1",
+        "0027_slot2",
+        "0027_slot3",
+        "0027_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0027_lock",
+      "locked": false
+    },
+    "0030.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0030_slot0",
+        "0030_slot1",
+        "0030_slot2",
+        "0030_slot3",
+        "0030_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0030_lock",
+      "locked": false
+    },
+    "0033.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0033_slot0",
+        "0033_slot1",
+        "0033_slot2",
+        "0033_slot3",
+        "0033_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0033_lock",
+      "locked": false
+    },
+    "0036.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0036_slot0",
+        "0036_slot1",
+        "0036_slot2",
+        "0036_slot3",
+        "0036_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0036_lock",
+      "locked": false
+    },
+    "0039.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0039_slot0",
+        "0039_slot1",
+        "0039_slot2",
+        "0039_slot3",
+        "0039_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0039_lock",
+      "locked": false
+    },
+    "0042.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0042_slot0",
+        "0042_slot1",
+        "0042_slot2",
+        "0042_slot3",
+        "0042_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0042_lock",
+      "locked": false
+    },
+    "0045.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0045_slot0",
+        "0045_slot1",
+        "0045_slot2",
+        "0045_slot3",
+        "0045_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0045_lock",
+      "locked": null
+    },
+    "0048.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0048_slot0",
+        "0048_slot1",
+        "0048_slot2",
+        "0048_slot3",
+        "0048_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0048_lock",
+      "locked": null
+    },
+    "0051.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0051_slot0",
+        "0051_slot1",
+        "0051_slot2",
+        "0051_slot3",
+        "0051_slot4"
+      ],
+      "upgrade": [
+        2,
+        2,
+        null,
+        null,
+        null
+      ],
+      "lock": "0051_lock",
+      "locked": false
+    },
+    "0054.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0054_slot0",
+        "0054_slot1",
+        "0054_slot2",
+        "0054_slot3",
+        "0054_slot4"
+      ],
+      "upgrade": [
+        2,
+        2,
+        null,
+        null,
+        null
+      ],
+      "lock": "0054_lock",
+      "locked": false
+    },
+    "0057.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0057_slot0",
+        "0057_slot1",
+        "0057_slot2",
+        "0057_slot3",
+        "0057_slot4"
+      ],
+      "upgrade": [
+        2,
+        2,
+        null,
+        null,
+        null
+      ],
+      "lock": "0057_lock",
+      "locked": false
+    },
+    "0060.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0060_slot0",
+        "0060_slot1",
+        "0060_slot2",
+        "0060_slot3",
+        "0060_slot4"
+      ],
+      "upgrade": [
+        2,
+        2,
+        null,
+        null,
+        null
+      ],
+      "lock": "0060_lock",
+      "locked": false
+    },
+    "0063.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0063_slot0",
+        "0063_slot1",
+        "0063_slot2",
+        "0063_slot3",
+        "0063_slot4"
+      ],
+      "upgrade": [
+        2,
+        2,
+        null,
+        null,
+        null
+      ],
+      "lock": "0063_lock",
+      "locked": false
+    },
+    "0066.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0066_slot0",
+        "0066_slot1",
+        "0066_slot2",
+        "0066_slot3",
+        "0066_slot4"
+      ],
+      "upgrade": [
+        2,
+        2,
+        null,
+        null,
+        null
+      ],
+      "lock": "0066_lock",
+      "locked": false
+    },
+    "0069.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0069_slot0",
+        "0069_slot1",
+        "0069_slot2",
+        "0069_slot3",
+        "0069_slot4"
+      ],
+      "upgrade": [
+        2,
+        2,
+        null,
+        null,
+        null
+      ],
+      "lock": "0069_lock",
+      "locked": false
+    },
+    "0072.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0072_slot0",
+        "0072_slot1",
+        "0072_slot2",
+        "0072_slot3",
+        "0072_slot4"
+      ],
+      "upgrade": [
+        2,
+        2,
+        null,
+        null,
+        null
+      ],
+      "lock": "0072_lock",
+      "locked": false
+    },
+    "0075.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "0075_slot0",
+        "0075_slot1",
+        "0075_slot2",
+        "0075_slot3",
+        "0075_slot4"
+      ],
+      "upgrade": [
+        2,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "0075_lock",
+      "locked": false
+    },
+    "result_2nd.jpg": {
+      "window": [
+        1774,
+        1136
+      ],
+      "markers": [
+        "result_2nd_slot0",
+        "result_2nd_slot1",
+        "result_2nd_slot2",
+        "result_2nd_slot3",
+        "result_2nd_slot4"
+      ],
+      "upgrade": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "lock": "result_2nd_lock",
+      "locked": null
+    }
+  }
+}

@@ -1,0 +1,108 @@
+* , *::before, *::after {
+  box-sizing: border-box;
+}
+html, body, #app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+html {
+  font-family: var(--font-system);
+  font-size: var(--font-md);
+  font-synthesis: none;
+  -webkit-font-smoothing: antialiased;
+  background: var(--window);
+  color: var(--text);
+  user-select: none;
+}
+body {
+  line-height: 1.5;
+}
+html.hud-window, .hud-window body, .hud-window #app {
+  background: transparent;
+}
+button, input, select, textarea {
+  font: inherit;
+  color: inherit;
+}
+button {
+  cursor: default;
+}
+button, input, select, textarea {
+  margin: 0;
+}
+button {
+  border: 0;
+}
+button:disabled {
+  cursor: default;
+}
+input, textarea, .selectable {
+  user-select: text;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+h1, h2, h3, p {
+  margin: 0;
+}
+svg {
+  flex-shrink: 0;
+  stroke-width: 1.8;
+}
+button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible, [tabindex]:focus-visible {
+  outline: none;
+  box-shadow: var(--shadow-focus);
+}
+::selection {
+  background: var(--accent);
+  color: var(--white);
+}
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--separator);
+  border-radius: var(--radius-pill);
+}
+:hover::-webkit-scrollbar-thumb {
+  background: var(--tertiary);
+}
+::-webkit-scrollbar-track {
+  background: var(--transparent);
+}
+.numeric {
+  font-variant-numeric: tabular-nums;
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+.control {
+  min-width: 0;
+  height: var(--control-height);
+  background: var(--surface);
+  border: 1px solid var(--separator);
+  border-radius: var(--radius-sm);
+}
+.overlay-mask {
+  position: fixed;
+  inset: 0;
+  background: var(--mask);
+  display: flex;
+  justify-content: center;
+}
+.mask-enter-active, .mask-leave-active {
+  transition: opacity var(--duration-normal) var(--ease);
+}
+.mask-enter-from, .mask-leave-to {
+  opacity: 0;
+}

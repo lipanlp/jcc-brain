@@ -1,0 +1,45 @@
+[
+  {
+    "key": "0072",
+    "origin": [
+      1064,
+      210
+    ],
+    "source": "game-eye/samples/0072.jpg",
+    "width": 72
+  },
+  {
+    "key": "0004",
+    "origin": [
+      896,
+      613
+    ],
+    "source": "var/vision-module-optimization/replay-samples/spectate/0004.png",
+    "width": 72
+  },
+  {
+    "key": "0006",
+    "origin": [
+      1136,
+      583
+    ],
+    "source": "var/vision-module-optimization/replay-samples/spectate/0006.png",
+    "width": 72
+  },
+  {
+    "key": "upper0",
+    "origin": [
+      1114,
+      80
+    ],
+    "source": "var/vision-module-optimization/replay-samples/spectate/0002.png"
+  },
+  {
+    "key": "upper1",
+    "origin": [
+      802,
+      97
+    ],
+    "source": "var/vision-module-optimization/replay-samples/spectate/0002.png"
+  }
+]

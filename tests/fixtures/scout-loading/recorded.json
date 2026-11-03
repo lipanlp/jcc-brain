@@ -1,0 +1,502 @@
+[
+  {
+    "image": "slot1.jpg",
+    "source_image": "1792754616.870466-slot1.png",
+    "source_size": [
+      1774,
+      1136
+    ],
+    "source_sha256": "e7cd481dc418b29d6a156931ae2110d55868326df6651dd2749740c0e8188964",
+    "recorded_shot": {
+      "slot": 1,
+      "name": "G-Daydreaming",
+      "round": "4-3",
+      "t": 1792754616.870466,
+      "traits": [
+        {
+          "name": "主宰",
+          "count": 4,
+          "active": false,
+          "next": null
+        },
+        {
+          "name": "猎人",
+          "count": 2,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "峡谷野怪",
+          "count": 2,
+          "active": false,
+          "next": 3
+        },
+        {
+          "name": "重装战士",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "魔女",
+          "count": 1,
+          "active": false,
+          "next": 3
+        },
+        {
+          "name": "日蚀骑士",
+          "count": 1,
+          "active": false,
+          "next": 3
+        },
+        {
+          "name": "花仙子",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "野兽之灵",
+          "count": 1,
+          "active": false,
+          "next": 2
+        }
+      ],
+      "level": 6,
+      "board": [],
+      "bench": [],
+      "source": "active"
+    }
+  },
+  {
+    "image": "slot2.jpg",
+    "source_image": "1792754617.279759-slot2.png",
+    "source_size": [
+      1774,
+      1136
+    ],
+    "source_sha256": "3b94a9f7fafd830c2a7d67d38adc0d39da546bbba4ccb7a3d1f831584bb347a4",
+    "recorded_shot": {
+      "slot": 2,
+      "name": "懂事的小冯",
+      "round": "4-3",
+      "t": 1792754617.2797592,
+      "traits": [
+        {
+          "name": "大元素使",
+          "count": 1,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "灵魂莲华",
+          "count": 6,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "野兽之灵",
+          "count": 2,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "法师",
+          "count": 2,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "魔战士",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "主宰",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "裁决使",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "召唤师",
+          "count": 1,
+          "active": false,
+          "next": 2
+        }
+      ],
+      "level": 7,
+      "board": [],
+      "bench": [],
+      "source": "active"
+    }
+  },
+  {
+    "image": "slot3.jpg",
+    "source_image": "1792754618.025189-slot3.png",
+    "source_size": [
+      1774,
+      1136
+    ],
+    "source_sha256": "031fef86293ab6cbb755398e87fb43ffd8d08b0ff4903542a7af5becfaee9762",
+    "recorded_shot": {
+      "slot": 3,
+      "name": "隋毅",
+      "round": "4-3",
+      "t": 1792754618.0251892,
+      "traits": [
+        {
+          "name": "大元素使",
+          "count": 1,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "灵魂莲华",
+          "count": 6,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "野兽之灵",
+          "count": 2,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "法师",
+          "count": 2,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "魔战士",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "主宰",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "裁决使",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "召唤师",
+          "count": 1,
+          "active": false,
+          "next": 2
+        }
+      ],
+      "level": 6,
+      "board": [],
+      "bench": [],
+      "source": "active"
+    }
+  },
+  {
+    "image": "slot4.jpg",
+    "source_image": "1792754618.427684-slot4.png",
+    "source_size": [
+      1774,
+      1136
+    ],
+    "source_sha256": "b2a987678740057394073f880a94b1e409eadab978ad3b783bd47bb6d73a0ef6",
+    "recorded_shot": {
+      "slot": 4,
+      "name": "暴走的小幻魅",
+      "round": "4-3",
+      "t": 1792754618.427684,
+      "traits": [
+        {
+          "name": "日蚀骑士",
+          "count": 3,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "永恒之森",
+          "count": 3,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "护卫",
+          "count": 2,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "迅捷射手",
+          "count": 2,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "主宰",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "花仙子",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "法师",
+          "count": 1,
+          "active": false,
+          "next": 2
+        }
+      ],
+      "level": 6,
+      "board": [
+        {
+          "name": "?1",
+          "star": 2,
+          "zone": "board",
+          "slot": null,
+          "x": 0.558,
+          "y": 0.109,
+          "items": []
+        },
+        {
+          "name": "?2",
+          "star": 1,
+          "zone": "board",
+          "slot": null,
+          "x": 0.609,
+          "y": 0.129,
+          "items": []
+        },
+        {
+          "name": "?3",
+          "star": 1,
+          "zone": "board",
+          "slot": null,
+          "x": 0.654,
+          "y": 0.261,
+          "items": []
+        },
+        {
+          "name": "?4",
+          "star": 1,
+          "zone": "board",
+          "slot": null,
+          "x": 0.42,
+          "y": 0.276,
+          "items": []
+        },
+        {
+          "name": "?5",
+          "star": 1,
+          "zone": "board",
+          "slot": null,
+          "x": 0.594,
+          "y": 0.284,
+          "items": []
+        }
+      ],
+      "bench": [],
+      "source": "active"
+    }
+  },
+  {
+    "image": "slot5.jpg",
+    "source_image": "1792754618.848403-slot5.png",
+    "source_size": [
+      1774,
+      1136
+    ],
+    "source_sha256": "e129bd132a69b56f8e29b1aeaf33bb43347b5f568accd2e0638cc5cff7975618",
+    "recorded_shot": {
+      "slot": 5,
+      "name": "胆猛的小月神",
+      "round": "4-3",
+      "t": 1792754618.848403,
+      "traits": [
+        {
+          "name": "日蚀骑士",
+          "count": 3,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "主宰",
+          "count": 2,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "迅捷射手",
+          "count": 2,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "重装战士",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "护卫",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "灵魂莲华",
+          "count": 1,
+          "active": false,
+          "next": 3
+        },
+        {
+          "name": "月蚀骑士",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "狂战士",
+          "count": 1,
+          "active": false,
+          "next": 2
+        }
+      ],
+      "level": 6,
+      "board": [
+        {
+          "name": "?1",
+          "star": 2,
+          "zone": "board",
+          "slot": null,
+          "x": 0.608,
+          "y": 0.132,
+          "items": []
+        },
+        {
+          "name": "?2",
+          "star": 1,
+          "zone": "board",
+          "slot": null,
+          "x": 0.561,
+          "y": 0.23,
+          "items": []
+        },
+        {
+          "name": "?3",
+          "star": 1,
+          "zone": "board",
+          "slot": null,
+          "x": 0.478,
+          "y": 0.277,
+          "items": []
+        },
+        {
+          "name": "?4",
+          "star": 1,
+          "zone": "board",
+          "slot": null,
+          "x": 0.707,
+          "y": 0.28,
+          "items": []
+        },
+        {
+          "name": "?5",
+          "star": 2,
+          "zone": "board",
+          "slot": null,
+          "x": 0.536,
+          "y": 0.281,
+          "items": []
+        }
+      ],
+      "bench": [],
+      "source": "active"
+    }
+  },
+  {
+    "image": "slot6.jpg",
+    "source_image": "1792754619.631676-slot6.png",
+    "source_size": [
+      1774,
+      1136
+    ],
+    "source_sha256": "03dfcdaee2b7bd05083727dd04801e6578e6f0755e9f52afce2c7264054100e9",
+    "recorded_shot": {
+      "slot": 6,
+      "name": "琪亚娜光辉小炮",
+      "round": "4-3",
+      "t": 1792754619.631676,
+      "traits": [
+        {
+          "name": "大元素使",
+          "count": 1,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "永恒之森",
+          "count": 7,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "迅捷射手",
+          "count": 3,
+          "active": true,
+          "next": null
+        },
+        {
+          "name": "重装战士",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "护卫",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "月蚀骑士",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "召唤师",
+          "count": 1,
+          "active": false,
+          "next": 2
+        },
+        {
+          "name": "花仙子",
+          "count": 1,
+          "active": false,
+          "next": 2
+        }
+      ],
+      "level": 7,
+      "board": [],
+      "bench": [],
+      "source": "active"
+    }
+  }
+]

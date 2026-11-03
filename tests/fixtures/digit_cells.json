@@ -1,0 +1,82 @@
+{
+ "timer_1": [
+  "bright",
+  "1"
+ ],
+ "timer_0": [
+  "bright",
+  "0"
+ ],
+ "timer_10_yellow": [
+  "bright",
+  "10"
+ ],
+ "gold_5": [
+  "bright",
+  "5"
+ ],
+ "gold_26": [
+  "bright",
+  "26"
+ ],
+ "stage_3_1": [
+  "bright",
+  "3-1"
+ ],
+ "streak_2": [
+  "bright",
+  "2"
+ ],
+ "streak_1_loss": [
+  "bright",
+  "1"
+ ],
+ "xp_0_36": [
+  "bright",
+  "0/36"
+ ],
+ "level_6": [
+  "bright",
+  "6"
+ ],
+ "odds": [
+  "bright",
+  "30% 40% 25% 5% 0%"
+ ],
+ "refresh_cost_2": [
+  "bright",
+  "2"
+ ],
+ "aug_refresh_1": [
+  "white",
+  "1"
+ ],
+ "trait_count_4": [
+  "white",
+  "4"
+ ],
+ "trait_count_none": [
+  "white",
+  ""
+ ],
+ "line_hp_x65": [
+  "line",
+  "65"
+ ],
+ "line_hp_67": [
+  "line",
+  "67"
+ ],
+ "line_self_81": [
+  "line",
+  "81"
+ ],
+ "line_name": [
+  "line",
+  null
+ ],
+ "line_icon_x": [
+  "line",
+  null
+ ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "key": "enemy-shield",
+    "origin": [
+      816,
+      212
+    ],
+    "source": "0015.jpg",
+    "enemy": true
+  },
+  {
+    "key": "enemy",
+    "origin": [
+      984,
+      297
+    ],
+    "source": "0033.jpg",
+    "enemy": true
+  },
+  {
+    "key": "green",
+    "origin": [
+      1080,
+      294
+    ],
+    "source": "0033.jpg",
+    "enemy": false
+  }
+]

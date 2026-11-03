@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+src/jccbrain/webui/static/
+web/node_modules/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# 本地运行数据（数据库、日志、用户设置都在 var/ 下，可随时由 `jcc db sync` 重建）
+var/
+
+# macOS
+.DS_Store
+
+# 旧 Swift 版视觉（已弃用），只读取其图库和待完善清单
+game-eye/
+*.spec
+
+# 含 API Key 的接入说明，不入库
+AI大模型接入.rtf

@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "source": "var/vision-module-optimization/batch-L1/conductor/live-preparation",
+  "notes": "Real cyan outline versus unselected blue/silver unit patches; manual reviewed live targets, no predictor labels.",
+  "entries": [
+    {
+      "key": "patch0",
+      "file": "board-a-0.png",
+      "sha256": "f8b63476899c42594870213747aa4ef02bb32fd2a80e0c28a22b4d599ce40043",
+      "window": [
+        1774,
+        1136
+      ],
+      "rect": [
+        654,
+        632,
+        765,
+        763
+      ],
+      "bar": {
+        "min_x": 676,
+        "max_x": 744,
+        "min_y": 621,
+        "max_y": 626,
+        "cx": 0.40022547914317924,
+        "cy": 0.5488556338028169
+      },
+      "zone": "board",
+      "slot": null,
+      "selected": true
+    },
+    {
+      "key": "patch1",
+      "file": "board-b-0.png",
+      "sha256": "34f70eaa83c67092b4e5bdb199674ac2c66289758f375aa8dc0fe53ba87e863a",
+      "window": [
+        1774,
+        1136
+      ],
+      "rect": [
+        891,
+        592,
+        999,
+        721
+      ],
+      "bar": {
+        "min_x": 912,
+        "max_x": 979,
+        "min_y": 580,
+        "max_y": 586,
+        "cx": 0.5329763246899661,
+        "cy": 0.5132042253521126
+      },
+      "zone": "board",
+      "slot": null,
+      "selected": true
+    },
+    {
+      "key": "patch2",
+      "file": "board-c-0.png",
+      "sha256": "648f071ad67fe64e21aa31ff8ab1620c99d23b0dfe3f082fba47ba83efbce475",
+      "window": [
+        1774,
+        1136
+      ],
+      "rect": [
+        723,
+        398,
+        834,
+        529
+      ],
+      "bar": {
+        "min_x": 745,
+        "max_x": 813,
+        "min_y": 386,
+        "max_y": 392,
+        "cx": 0.4391206313416009,
+        "cy": 0.34242957746478875
+      },
+      "zone": "board",
+      "slot": null,
+      "selected": true
+    },
+    {
+      "key": "patch3",
+      "file": "board-a-0.png",
+      "sha256": "f8b63476899c42594870213747aa4ef02bb32fd2a80e0c28a22b4d599ce40043",
+      "window": [
+        1774,
+        1136
+      ],
+      "rect": [
+        375,
+        742,
+        483,
+        871
+      ],
+      "bar": {
+        "min_x": 396,
+        "max_x": 463,
+        "min_y": 730,
+        "max_y": 736,
+        "cx": 0.24210822998872605,
+        "cy": 0.6452464788732394
+      },
+      "zone": "bench",
+      "slot": 0,
+      "selected": false
+    },
+    {
+      "key": "patch4",
+      "file": "board-b-0.png",
+      "sha256": "34f70eaa83c67092b4e5bdb199674ac2c66289758f375aa8dc0fe53ba87e863a",
+      "window": [
+        1774,
+        1136
+      ],
+      "rect": [
+        485,
+        754,
+        593,
+        883
+      ],
+      "bar": {
+        "min_x": 506,
+        "max_x": 573,
+        "min_y": 742,
+        "max_y": 748,
+        "cx": 0.3041149943630214,
+        "cy": 0.6558098591549296
+      },
+      "zone": "bench",
+      "slot": 1,
+      "selected": false
+    }
+  ]
+}
